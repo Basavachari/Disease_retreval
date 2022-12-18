@@ -1,0 +1,193 @@
+[
+    {
+        "id":1,
+        "condition": "q fever",
+        "link": "https://www.drugs.com/condition/q-fever.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "doxycycline",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "minocin for injection",
+                "rating": null,
+                "reviews": null,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "minocycline",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":2,
+        "condition": "quadriplegia (spinal cord trauma)",
+        "link": "https://www.drugs.com/condition/spinal-cord-injury.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":3,
+        "condition": "quincke's disease (hereditary angioedema)",
+        "link": "https://www.drugs.com/condition/hereditary-angioedema.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "firazyr",
+                "rating": 7.5,
+                "reviews": 6,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "berinert",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 76,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "takhzyro",
+                "rating": null,
+                "reviews": null,
+                "activity": 69,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cinryze",
+                "rating": 8.3,
+                "reviews": 4,
+                "activity": 64,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "haegarda",
+                "rating": 8.0,
+                "reviews": 1,
+                "activity": 62,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "icatibant",
+                "rating": 7.9,
+                "reviews": 7,
+                "activity": 58,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "kalbitor",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 54,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "c1 esterase inhibitor (human)",
+                "rating": 8.7,
+                "reviews": 7,
+                "activity": 48,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ecallantide",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 47,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ruconest",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 47,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "orladeyo",
+                "rating": 7.0,
+                "reviews": 2,
+                "activity": 39,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "lanadelumab",
+                "rating": 3.0,
+                "reviews": 1,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "conestat alfa",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "berotralstat",
+                "rating": 7.0,
+                "reviews": 2,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+
+Antibiotic-Associated Diarrhea
+
+Medically reviewed by Drugs.com. Last updated on Sep 1, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Antibiotic-Associated Diarrhea?
+
+
+In healthy people, many different species of bacteria live inside the bowel. Many are harmless or even helpful to the body, but a few have the potential to be aggressive troublemakers. Under normal circumstances, the "bad" bacteria are far outnumbered. So, the bowel's natural ecological balance keeps them under control.
+
+This can change dramatically when a person begins treatment with an antibiotic. This is because antibiotics can kill large numbers of the bowel's normal bacteria, altering the delicate balance among the various species.
+
+In most cases, the result is only a mild case of short-term diarrhea that goes away quickly after the antibiotic treatment ends. Occasionally, however, an antibiotic eliminates so many of the bowel's "good" and harmless bacteria that the aggressive "bad" ones are free to multiply out of control.
+
+One type of bacteria in particular, a species called Clostridium difficile (C. difficile), can overgrow inside the bowel, producing irritating chemicals that damage the bowel wall and trigger bowel inflammation, called colitis. This can cause abdominal pain, cramps, diarrhea, and fever. In some cases, high-volume, diarrhea is so frequent that the person develops dehydration (very low levels of body water).
+
+A more severe complication of C. difficile overgrowth can lead to a type of bowel inflammation called pseudomembranous colitis. Patients with pseudomembranous colitis are at risk of a severely distended colon that stops functioning (toxic megacolon), which can lead to a hole through the bowel wall (bowel perforation).
+
+
+Because C. difficile lives silently in the bowels of about 5% of people, episodes of C. difficile diarrhea occasionally occur in otherwise healthy adults and children who are taking antibiotics.
+
+C. difficile infections are much more common, however, among the elderly and those with debilitating illnesses. In hospitals and nursing homes, C. difficile bacteria can be spread from patient to patient on the unwashed hands of health care workers, and also via toilets, sinks and other surfaces that have been contaminated by stool.
+
+According to some studies, more than 20% of patients in hospitals and nursing homes silently harbor C. difficile in their intestines. In any one of these patients, treatment with an antibiotic is all it takes for C. difficile to overgrow and cause illness. Although many different types of antibiotics have been blamed for causing C. difficile diarrhea and colitis, the most common culprits are clindamycin (Cleocin), ampicillin (sold under several brand names) and cephalosporins, such as cephalexin (Keflex).
+
+Symptoms
+
+If you are taking an antibiotic, the medication will cause a mild change in your population of intestinal bacteria that may cause occasional loose stools or mild diarrhea for a few days. These symptoms should stop once your antibiotic treatment ends.
+
+If you have a more dramatic change in your bowel bacteria, and C. difficile bacteria begin to overgrow, your symptoms can include:
+
+Watery diarrhea
+Crampy abdominal pain
+Abdominal tenderness
+Fever
+Pus or blood in your diarrhea (if your illness progresses to C. difficile colitis)
+
+In some cases, fever and abdominal pain develop several days before diarrhea starts.
+
+Diarrhea caused by the C. difficile toxin usually starts while you are taking an antibiotic, but the diarrhea may be delayed and start a few weeks after you have stopped taking the medication.
+
+Diagnosis
+
+If you have unexplained diarrhea, and you are taking antibiotics, be sure to tell your doctor the name of your prescription antibiotic, the date when you first began treatment and the date when your bowel symptoms began.
+
+
+To evaluate the severity of your diarrhea and assess your risk of dehydration, your doctor will ask about:
+
+How many stools you are having per day
+Whether the stools are semi-solid, mildly loose or very watery
+The appearance of your stool
+Whether you have any of the signs of dehydration — a very dry mouth, intense thirst, decreased urination, extreme weakness
+Whether there is blood in your stool
+If you have additional worrisome symptoms, such as fever or abdominal pain
+
+In most cases, your doctor can diagnose antibiotic-associated diarrhea based on your symptoms, your history of antibiotic treatment and the results of your physical examination. Your doctor is likely to suspect C. difficile infection if you have unusually severe symptoms, if you have been discharged recently from a hospital or nursing home, or if you have:
+
+A fever over 101° Fahrenheit
+Severe diarrhea (more than 10 watery stools daily)
+Signs of significant dehydration (dry mouth, intense thirst, decreased urination, weakness)
+Stool that contains blood or pus
+Abdominal pain
+
+This testing usually involves checking one or more stool samples for the presence of a toxin made by C. difficile bacteria.
+
+Expected Duration
+
+If you have mild, uncomplicated antibiotic-associated diarrhea, your bowel movements should gradually return to normal once your antibiotic treatment ends.
+
+More severe forms of C. difficile diarrhea usually begin to subside within the first 72 hours of treatment with medication, although it's fairly common for the diarrhea to return temporarily.
+
+Prevention
+
+If you are caring for someone who has diarrhea, you may be able to avoid spreading potentially harmful bacteria by taking these steps:
+
+Wash your hands frequently, especially after using the toilet, changing diapers or cleaning bedpans.
+Use detergent and when possible chlorine bleach to wash clothing that has been soiled with stool.
+Wipe contaminated bathroom surfaces with a chlorine-based household cleaner.
+Use soap and water to wash your hands after visiting someone in the hospital with C. difficile. Alcohol-based hand cleansers do NOT kill these bacteria.
+
+
+If you are taking an antibiotic yourself, you might be able to reduce the medication's effects on your normal bowel bacteria by eating yogurt that contains live cultures.
+
+Treatment
+
+For cases of mild antibiotic-associated diarrhea, try the following suggestions:
+
+Drink plenty of fluids to replace body water that has been lost to diarrhea. You can try soft drinks, sports drinks, broth or over-the-counter oral rehydration fluids.
+Temporarily avoid milk products and foods that contain wheat flour (bread, macaroni, pizza), since your digestive tract may be unusually sensitive to them for a few days. Also temporarily avoid high-fiber foods, such as fruits, corn and bran.
+Do not take antidiarrhea medicines without first checking with your doctor. These medicines may interfere with your intestine's ability to pass harmful bacteria and toxins out of your body through the stool.
+
+If you have more severe diarrhea due to a C. difficile infection, your doctor probably will stop your antibiotic treatment and prescribe an oral antimicrobial drug called vancomycin or fidaxomicin.
+
+If treatment fails to eradicate a C. difficile infection, your doctor may advise a fecal transplant. The procedure may sound disgusting. But it is easy to perform.
+
+Spouses, parents, siblings and the adult children of older patients are the preferred donors. But any healthy person can donate stool.
+
+The donor provides a fresh stool sample. Doctors mix and blend it with a salt solution to make a slurry. The slurry is passed through gauze or a coffee filter to remove large undigested food particles.
+
+Doctors have a couple options for getting the donor stool mixture into the recipient's intestine. The preferred method is by colonoscopy or an enema.
+
+About 3% of people with C. difficile infection will become seriously ill, with high fevers, severe abdominal pain, and a complication called toxic megacolon (enlarged colon) that will show up on a computed tomography (CT) scan. These patients should be evaluated by a surgeon. If the surgeon is concerned that the intestine might develop a hole or leak (perforate), he or she will recommend emergency surgery to remove the affected portion of the colon.
+
+When To Call A Professional
+
+Call your doctor promptly if you have been taking antibiotics and you develop any of the following symptoms:
+
+More than five loose stools or episodes of diarrhea per day
+High-volume, watery diarrhea
+A fever
+Abdominal pain or tenderness
+Blood or pus in your stool
+
+Prognosis
+
+Overall, the prognosis is excellent. Almost all adults with mild antibiotic-associated diarrhea recover completely without complications.
+
+Among people with more severe C. difficile diarrhea, 15% to 35% have the problem return within eight weeks after their treatment with metronidazole ends. Almost all of these patients can be successfully treated with a second course of medication.
+
+External resources
+
+National Institute of Allergy and Infectious Diseases (NIAID) 
+
+http://www.niaid.nih.gov/
+
+National Institute of Diabetes & Digestive & Kidney Disorders 
+
+http://www.niddk.nih.gov/
+
+
+Centers for Disease Control and Prevention
+
+http://www.cdc.gov/
+
+American College of Gastroenterology (ACG)
+
+http://www.gi.org/
+
+
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

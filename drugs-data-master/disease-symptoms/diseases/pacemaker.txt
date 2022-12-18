@@ -1,0 +1,134 @@
+
+Pacemaker
+
+Medically reviewed by Drugs.com. Last updated on Nov 26, 2021.
+
+What is a Pacemaker?
+
+
+A pacemaker is an implanted device that regulates your heartbeat electronically. It monitors your heart's rhythm and, when necessary, it generates a painless electric impulse that triggers a heartbeat.
+
+Your pacemaker is programmed to meet the needs of your heart. Early pacemakers were implanted to treat bradycardia, an abnormally slow heartbeat. Now pacemakers can be programmed to treat a variety of heart problems, including heart failure.
+
+The electronic control center of your pacemaker — the part that is programmed by your doctor — is called the pulse generator. The pulse generator is a unit encased in titanium that usually is placed under the skin below your collarbone. In most cases, the unit is small, often weighing less than 30 grams (about 1 ounce). A lithium iodide battery inside the generator lasts 5 to 12 years, with an average of 7 to 8 years. Other sophisticated electronic components are responsible for:
+
+Sensing your natural heartbeat
+Generating an electrical impulse, called a pacing pulse, according to how the unit is programmed
+Keeping an electronic record of your heartbeat and your pacemaker's activity
+
+The pulse generator is attached to one or more wires called leads. These are threaded through large blood vessels in your upper chest into your heart. At the ends of the leads are small electrodes that attach to the inner surface of your heart. These electrodes pick up your heart's natural electric signals. The pacing pulse from the pulse generator travels along the leads to your heart muscle.
+
+
+
+
+What It's Used For
+
+Normally, the signal for a heartbeat begins in your heart's sinus node, the body's natural pacemaker, located in the upper portion of your heart's right atrium. From the sinus node, the signal normally travels to the atrioventricular node (AV node) between the two atria, and then downward to the ventricles. Once the signal arrives at the ventricles, it triggers a contraction of the heart muscle and produces a heartbeat.
+
+If your sinus node is not generating natural signals properly or if there is interference along the normal pathway to the ventricles, your doctor may recommend a pacemaker. Specifically, you may need a pacemaker if you have:
+
+Sick sinus syndrome — In this condition, your sinus node either beats too slowly or does not increase its rate in response to exercise. This causes a slow heartbeat (bradycardia) and symptoms such as dizziness, light-headedness, fainting spells and shortness of breath.
+Heart block — In this condition, signals from the sinus node either are blocked completely, or are delayed significantly, as they pass through the AV node to the ventricles.
+Less often, a pacemaker is used to treat the following conditions:
+Certain abnormally rapid heart rhythms, called tachyarrhythmias
+Fainting caused by abnormal nerve impulses that slow the heart, a condition called neurocardiogenic syncope
+Certain forms of cardiomyopathy (diseases of the heart muscle)
+Certain abnormal heart rhythms (arrhythmias) after a heart transplant
+Congestive heart failure — A special three-lead pacemaker may be an option for certain people that have not responded adequately to drug therapy.
+
+
+Preparation
+
+Your doctor will review your medical history and allergies. He or she will ask for a list of your current medications. You may have to stop taking certain medications before surgery, especially anticoagulants (medicine to prevent blood clots). Also, your doctor will tell you when to stop eating and drinking before the procedure.
+
+How It's Done
+
+Before surgery, you will dress in a hospital gown. You also will be asked to remove any necklaces or bracelets. You will lie down on a hospital bed, and an intravenous (IV) line will be inserted in your arm or hand. This IV line will be used to administer fluid and medications directly into a vein.
+
+The most common location for a pulse generator to be placed is below the left or right collarbone. First, the skin in this area will be shaved, cleaned and numbed with a local anesthetic. If you need more than a local anesthetic to make you feel comfortable, your doctor can give you additional medication.
+
+A small 2 inch to 3 inch (5 centimeter to 7.5 centimeter) incision will be made in the numbed area of your chest near your collarbone. This incision provides access to a very large vein located under your collarbone. Your doctor will thread the pacemaker lead or leads through this large vein into your heart, where the tips of the electrodes will attach to the heart wall.
+
+Once the electrodes are inside your heart, a type of X-ray called fluoroscopy will be used to confirm that the electrode or electrodes are in the correct place. Most pacemakers implanted in the United States use two leads (attached to two electrodes), while most of the rest use only one.
+
+Once the pacemaker electrodes are in place, your doctor will test the pacemaker leads electronically to confirm that they are operating properly. Then your doctor will connect the pacemaker leads to the pulse generator. Your doctor will create a small pocket in the skin under the incision and insert the pulse generator into this pocket. Finally, the incision will be closed with stitches. The entire implantation procedure usually takes about one hour.
+
+After surgery, hospital personnel will monitor your condition closely. During this time, a handheld magnetic instrument may be used to adjust your pacemaker's programming. If all goes well, your hospital stay will be brief. In some centers, implanting a pacemaker is an outpatient procedure, and patients are allowed to go home on the day of surgery. In other centers, the patient stays in the hospital overnight. After your surgery, you may need to take antibiotics for a few days to help prevent infection.
+
+Before you leave the hospital, you will be instructed about important lifestyle changes related to your pacemaker. In particular, you should avoid heavy lifting and other strenuous arm movements (golf, tennis, swimming) for a few weeks. These activities can dislodge or shift the position of the pacemaker electrodes inside your heart.
+
+Your doctor also will tell you how to reduce your risk of electromagnetic interference (EMI), which can affect the programming and performance of pacemakers. This interference can be caused by emissions from antitheft devices, surveillance equipment, cell phones, welding equipment and hospital machinery such as magnetic resonance imaging (MRI) scanners, electrocautery equipment and diathermy machines.
+
+
+Before you go home, your doctor will give you information about the make and model of your pacemaker. This information will be printed on an identification card that you can carry in your wallet. You should consider wearing a medical alert necklace or bracelet that identifies you as a pacemaker wearer.
+
+Follow-Up
+
+Your first pacemaker checkup probably will be scheduled for about six weeks after surgery. At this visit, the doctor will examine your incision to make sure that it has healed properly. He or she also will check that your pacemaker's electronic record to confirm that the unit is working correctly.
+
+The programming of your pacemaker may need to be adjusted later when you begin everyday activities. Follow-up pacemaker programming is a painless procedure that can be performed in your doctor's office. It is done externally (without opening the skin) by using a special magnetic wand attached to a sophisticated computer.
+
+After your first follow-up visit, you probably will return to your doctor's office for pacemaker checkups every six months. Between these office visits, your doctor can keep track of your pacemaker's operation through trans-telephonic monitoring. This is a system that transmits your pacemaker's electronic record through standard telephone lines to a receiver station for evaluation. Doctors usually schedule a trans-telephonic monitoring session every two to three months to check on a pacemaker's operation.
+
+As an alternative to standard telephone monitoring, at least one new pacemaker model now uses a transmitter that sends signals through a small portable cell phone. This special cell phone, which can be carried in a pocket or purse, transmits the pacemaker's electronic record to a receiver station daily.
+
+Risks
+
+The placement of pacemakers generally is safe. However, as with any invasive procedure, complications can occur. These include:
+
+Infection
+Excessive bleeding
+Perforation of the heart muscle
+Stroke or heart attack
+Punctured lung
+Formation of a blood clot inside the skin pocket
+Once the pacemaker is in place, there also are long-term risks:
+The pacemaker electrodes can dislodge.
+An electrode tip can fracture.
+The insulation on a pacemaker lead can break.
+A connection between a pacemaker lead and the pulse generator can loosen.
+The pacemaker can fire at the wrong time.
+The skin where the pacemaker is implanted can erode (wear away).
+Your doctor will discuss these risks with you before surgery.
+
+When To Call a Professional
+
+After your surgery, contact your doctor immediately if:
+
+The area around your incision becomes red, swollen, hot or painful.
+The edges of your incision leak blood or pus.
+A suture pops open, and the edges of your incision pull away from each other.
+You develop a fever or chills.
+The skin over your pulse generator begins to break down.
+Your pulse varies from the parameters programmed by your doctor. Before you leave the hospital, your doctor will tell you what a normal pulse is for you.
+Seek emergency medical care immediately if you are wearing a pacemaker and:
+You feel faint or dizzy.
+You have chest pain or shortness of breath.
+You develop palpitations or a very irregular heartbeat.
+
+
+External resources
+
+National Heart, Lung, and Blood Institute (NHLBI)
+
+https://www.nhlbi.nih.gov/
+
+American College of Cardiology
+
+https://www.acc.org/
+
+U.S. Food and Drug Administration (FDA)
+
+https://www.fda.gov/
+
+American Heart Association (AHA)
+
+https://www.heart.org/
+
+Image: Mr.suphachai Praserdumrongchai /Dreamstime
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

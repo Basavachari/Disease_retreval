@@ -1,0 +1,109 @@
+
+Brain Tumor
+
+Medically reviewed by Drugs.com. Last updated on Jun 2, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is a Brain Tumor?
+
+
+A brain tumor is a mass of abnormally growing cells in the brain or skull. It can be benign (noncancerous) or malignant (cancerous). Unlike other cancers, a cancer arising from brain tissue (a primary brain cancer) rarely spreads. Whether benign or malignant, all brain tumors are serious. A growing tumor eventually will compress and damage other structures in the brain.
+
+
+
+
+There are two categories of brain tumors: primary and secondary. Primary tumors start in brain tissue, while secondary tumors spread to the brain from another area of the body. Primary tumors are classified by the tissue in which they begin:
+
+Gliomas, the most common primary tumors, start in the brain's glial (supportive) tissue. There are several types of gliomas, and they can vary in their aggressiveness and response to treatment. Glioblastoma multiforme is a fast-growing, higher-grade tumor that can arise from a lower-grade glioma.  
+Medulloblastomas come from early embryonic cells and more commonly occur in children.  
+Meningiomas are related to cells in the membranes surrounding the brain and spinal cord. They are usually benign, but can come back (recur) after treatment.
+
+Secondary tumors most commonly arise from the lungs or breast. Other cancers, especially melanoma (a type of skin cancer), renal cell cancer (a type of kidney cancer), and lymphoma (a cancer of the immune system) can spread to the brain. When this happens, the cancer is the same as the original cancer. For example, lung cancer that spreads to the brain is known as metastatic lung cancer, because the tumor's cells resemble abnormal lung cells. Secondary brain tumors are much more common than primary tumors.
+
+Although brain tumors can occur at any age, they most commonly affect adults 40 to 70 years old and children 3 to 12 years of age. Whether the use of cellular phones contributes to the development of brain tumors, especially in children, has sparked debate. The issue is far from resolved, and additional research is needed.
+
+Symptoms
+
+The symptoms of a brain tumor often are the same as those of other diseases and may develop gradually. That's why they may be overlooked for a long time before diagnosis.
+
+Although a brain tumor rarely causes headaches, someone with no history of headaches who develops them should be seen by a doctor. Headaches from a brain tumor tend to be worse upon waking and ease during the day. Other symptoms may include
+
+vomiting and nausea  
+new onset of seizures  
+weakness involving one side of the body, such as an arm and leg on the same side  
+trouble talking or change in speech  
+loss of coordination  
+changes in vision or abnormal eye movements 
+memory or personality changes  
+ringing and hearing loss in one ear
+
+
+The symptoms noted above are not specific for brain tumor. In fact, most often any of these symptoms are related to some other cause.
+
+The specific symptoms of a brain tumor depend on its size and location. They can be caused by several factors, including
+
+increased pressure in the skull  
+damage to vital tissue  
+swelling and fluid buildup  
+hydrocephalus, sometimes called "water on the brain," which results when the flow of cerebrospinal fluid is blocked and builds up in the brain
+
+Diagnosis
+
+Diagnosis often begins with a medical history. Your doctor will ask about your symptoms, health habits, and past illnesses and treatments. He or she will also do a neurological exam to check your
+
+reflexes 
+coordination 
+alertness 
+response to pain 
+muscle strength 
+eyesight
+
+Your doctor may also order one of these imaging tests:
+
+Computed tomography (CT) scan. This test creates cross-sectional images of the brain. It uses an x-ray camera that rotates around the body. A dye sometimes is injected into a vein prior to the scan to make the tumor more visible. 
+Magnetic resonance imaging (MRI). This test uses a powerful magnet, radio waves, and a computer to create pictures of the brain. An MRI may provide a better view of some parts of the brain than a CT scan. A special dye may be injected into the bloodstream to enhance the images. A magnetic resonance angiogram is similar to an MRI, but it looks at the flow of blood in arteries. This can help doctors find aneurysms or better define tumors.
+
+
+
+
+Positron emission tomography (PET) scan. For this test, radioactive glucose (sugar) is injected into a vein. A rotating scanner highlights areas where cells are consuming lots of glucose. (Cancer cells use more glucose than normal cells.)
+
+If a brain tumor is suspected to be a secondary cancer, imaging tests also may be done of other organs.
+
+Your doctor may also want to do a lumbar puncture (spinal tap). During this test, spinal fluid is taken from the lower back with a needle. The fluid can be checked for signs of infection or cancer cells.
+
+In rare cases, doctors may want to remove a small piece of tumor tissue before diagnosing the cancer. This is called a biopsy.
+
+Expected Duration
+
+Meningiomas can remain the same size for many years without causing problems. Other types of brain tumors will continue growing until they are treated. Without treatment, permanent brain damage or death can result. Many brain tumors can lead to death even with the best treatment.
+
+Prevention
+
+There is no known way to prevent primary brain tumors. As more is learned about what causes them, more may be done to prevent them. Researchers are studying genetic and hereditary factors, exposure to certain chemicals, and exposure to certain viruses.
+
+Some secondary brain tumors that originally started in other organs can be prevented. For example, avoiding tobacco products decreases the risk of lung cancer, thereby decreasing the chance that lung cancer cells ever appear in the brain.
+
+Treatment
+
+Treatment depends on the tumor's size, location, and type, as well as the patient's age and general health. The main treatments include surgery, radiation therapy, and chemotherapy. A combination of treatments—surgery and radiation therapy, for example—is often used. Before treatment, a patient may be given corticosteroid drugs to reduce swelling of brain tissue. Anticonvulsant drugs also may be prescribed to prevent or control tumor-related seizures.
+
+When possible, surgery is the treatment of choice for primary brain tumors. Surgery can successfully remove some benign and malignant brain tumors. Even if the entire tumor cannot be removed, surgeons will likely take out as much as possible to help relieve symptoms.
+
+In some cases, a tumor cannot be removed surgically or surgery is too risky. For example, the tumor may abut or wrap around critical normal tissues. Damage to these tissues during surgery could cause the patient significant disability.
+
+Stereotactic surgery, which uses computers and imaging devices to create three-dimensional pictures of the brain, can be used to remove tumors or to place radioactive materials in the tumor. Stereotactic surgery is especially helpful in reaching tumors deep in the brain. It can help pinpoint the tumor's edges, too, meaning that surgeons remove less normal tissue. This lowers the chances of side effects and brain injury.
+
+Radiation therapy, which uses high-powered x-rays to kill cancer cells, often follows surgery. It helps destroy any pieces of the tumor that could not be surgically removed and any remaining cancer cells. Radiation therapy is also used when surgery is not an option.
+
+Because high-dose radiation can damage normal tissue, doctors try to precisely target the tumor, limiting the amount of radiation to surrounding parts of the brain. Gamma Knife and CyberKnife are examples of treatments that allow doctors to more precisely aim the radiation beam at the tumor and better spare surrounding normal tissue. Radiation also can be given by putting radioactive material into the tumor itself.
+
+Chemotherapy uses drugs to stop the growth of cancer cells. It can be taken by mouth, injected into a vein or muscle, or placed directly into a body part. In general, chemotherapy tends to be less effective against gliomas and meningiomas than surgery or radiation. But it plays an important role in the treatment of other types of brain tumors, such as lymphomas and medulloblastomas.
+
+

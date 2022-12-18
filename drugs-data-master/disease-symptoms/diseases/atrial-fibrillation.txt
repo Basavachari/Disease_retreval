@@ -1,0 +1,151 @@
+
+Atrial Fibrillation
+
+Medically reviewed by Drugs.com. Last updated on Jan 25, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Treatment
+
+What is Atrial Fibrillation?
+
+
+Atrial fibrillation is a heart rhythm disorder that causes a rapid and irregular heartbeat.
+
+The heart is a muscle that has four chambers through which blood flows. The two upper chambers are the atria. The two lower chambers are the ventricles.
+
+Atrial fibrillation affects the atria. Normally, the muscular walls of the atria contract at the same time, pumping blood into the lower two chambers (the ventricles). Then the walls of the ventricles contract at the same time, pumping blood to the rest of the body.
+
+For the heart to work efficiently, the atria need to pump first, followed by the ventricles. How is this coordinated? Normally, each heartbeat starts with an electrical impulse that comes from a small part of the atrium called the sinus node. That signal first causes the atria to beat, pumping blood into the ventricles. Then the signal travels to another part of the heart called the atrioventricular node. From there, the signal travels down to the ventricles, and causes them to beat, sending blood throughout the body.
+
+In contrast, during atrial fibrillation, instead of one coordinated signal that causes all parts of the atria to pump at the same time, there are multiple uncoordinated signals. Instead of pumping efficiently, the atria just quiver.
+
+As a result, the atria do not pump all of their blood into the ventricles. Also, the ventricles sometimes pump when they don't have much blood in them. So the heart is not pumping efficiently.
+
+
+In atrial fibrillation, the heartbeat is rapid and irregular. A normal heartbeat is 60 to 100 beats per minute, and very regular: beat...beat...beat...beat. During atrial fibrillation, the heart beats at 80 to 160 beats per minute, and is very irregular: beat..beat.....beat....beat.beat.beat....beat.
+
+
+
+Atrial fibrillation can lead to the formation of blood clots inside the atria. That's because blood tends to form clots when it's not moving. The quivering atria don't move all of the blood along to the ventricles. Some blood just pools inside the atria, and the pool of still blood tends to form clots.
+
+Such blood clots can cause serious problems. They can travel out of the heart and get stuck in an artery to the lungs (causing a pulmonary embolism), an artery to the brain (causing a stroke) or an artery elsewhere in the body.
+
+
+
+The major factors that increase the risk of atrial fibrillation are:
+
+Age
+Coronary artery disease
+Rheumatic heart disease
+High blood pressure
+Diabetes
+An excess of thyroid hormones
+
+
+Symptoms
+
+Atrial fibrillation often doesn't cause any symptoms. When symptoms occur, they can include:
+
+Palpitations (awareness of a rapid heartbeat)
+Fainting
+Dizziness
+Weakness
+Shortness of breath
+Chest pain
+
+Some people with atrial fibrillation have periods of normal heartbeats: the atrial fibrillation comes and goes. In many others, the atrial fibrillation becomes a constant condition, one that remains for the rest of their lives.
+
+Diagnosis
+
+Your doctor will:
+
+Ask about your family history of cardiovascular disorders (particularly any possible risk factors for atrial fibrillation) and your personal medical history.
+Ask about your specific heart symptoms, including possible triggers for your symptoms.
+Examine you, checking your heart rate and rhythm and your pulse. In atrial fibrillation, your pulse often doesn't match your heart sounds.
+
+The diagnosis of atrial fibrillation is usually confirmed with an electrocardiogram (EKG). An EKG is a test that records the heart's electrical activity. However, because atrial fibrillation can come and go, a standard EKG can make the diagnosis only if you are having the irregular rhythm at the time the EKG is performed.
+
+For cases of atrial fibrillation that comes and goes, an ambulatory EKG may be done. During this test, the patient wears a portable EKG machine (Holter monitor). The Holter monitor is usually worn for 24 hours.
+
+If your symptoms appear less frequently than once a day, your doctor may use an event recorder. You keep an event recorder with you for several days or even weeks. It attempts to capture your heart rhythm at the time you feel an irregular beat.
+
+
+
+
+Expected Duration
+
+How long the condition lasts depends on the cause. Atrial fibrillation caused by a treatable condition may go away when the condition is treated.
+
+However, atrial fibrillation is often a lifelong condition. This is more likely when it has no known cause or results from a long-standing cardiac disorder.
+
+Prevention
+
+Eat a healthy diet, particularly avoiding foods rich in saturated fats or trans fats and refined carbohydrates.
+Control cholesterol and high blood pressure.
+Do not drink more than two alcoholic drinks per day.
+Quit smoking.
+Try to achieve a healthy weight.
+Get regular exercise.
+
+Some causes of atrial fibrillation cannot be prevented.
+
+Treatment
+
+Treating the Likely Causes
+
+Treatment depends on the cause.
+
+If the cause is coronary artery disease, treatment may consist of:
+
+Lifestyle changes
+Cholesterol-lowering medications
+Blood pressure medications
+Angioplasty
+Coronary artery bypass surgery
+
+Atrial fibrillation caused by an excess of thyroid hormones (hyperthyroidism) can be treated with medication or surgery to address the underlying condition. When rheumatic heart disease is the cause, the condition may be treated with surgery to repair or replace heart valves damaged by the disease.
+
+Treatment of the First Attack
+
+When a person develops atrial fibrillation for the first time (or the first few times), doctors often try to restore a normal heart rhythm. This is particularly true if a person is having bothersome symptoms (like shortness of breath or weakness) from atrial fibrillation. Even if the person is not having symptoms, there is a reason to try to restore a normal rhythm: the longer the heart is left to remain in atrial fibrillation, the harder it is to restore a normal heart rhythm.
+
+Several different medicines are used to restore a normal heart rhythm. Another treatment option is electrical cardioversion: a small shock is delivered to the chest, and the electricity can "re-set" the heart to a normal rhythm. This procedure works in most cases. But more than half of patients eventually develop atrial fibrillation again.
+
+Restoring a Normal Heart Rhythm When Atrial Fibrillation Recurs
+
+To keep the heart from repeatedly going back into atrial fibrillation, your doctor may recommend radiofrequency catheter ablation. This procedure is typically performed in a catheterization laboratory of a hospital. The procedure uses radio waves to destroy the tissue in the heart that is triggering the abnormal electrical rhythms that cause atrial fibrillation. If it is effective in eliminating recurrent attacks of atrial fibrillation, then it also eliminates the symptoms caused by atrial fibrillation as well as the risk of blood clots and the risks of the blood thinners needed to prevent blood clots.
+
+Unfortunately, radiofrequency catheter ablation is not always effective, and also can produce serious adverse effects. So you need to talk to the doctor about the balance of benefits and risks.
+
+Keeping a Normal Heart Rhythm
+
+
+When a normal heart rhythm has been restored, several different medicines may be given to try to hold the heart in a normal rhythm. This is called "rhythm control".
+
+Sometimes, high doses of beta-blocker drugs can hold the heart in a normal rhythm. These drugs have relatively few serious adverse effects. For most patients, however, the most potent drugs for keeping the heart out of atrial fibrillation are the antiarrhythmic drugs, such as amiodarone. Although these drugs are generally effective at keeping the heart rhythm regular, they also can have serious side effects.
+
+Slowing the Heart Rate
+
+Sometimes—usually after the heart has slipped back into atrial fibrillation several times, despite treatment—doctors decide it is better to leave the heart in atrial fibrillation. When that happens, the heart rate usually needs to be slowed down to help the heart work most efficiently. This is called "rate control".
+
+Medicines used to slow the heart rate include beta blockers, calcium-channel blockers, and digoxin.
+
+Rhythm Control Versus Rate Control
+
+For the average person with atrial fibrillation, large studies have found that rhythm control and rate control have approximately the same long-term consequences: one is not superior to the other.
+
+Anticoagulation
+
+For anyone who has chronic atrial fibrillation, or who may be going in and out of atrial fibrillation without knowing it (because it doesn't cause them symptoms), the risk of blood clots needs to be reduced. This requires "blood thinning" drugs.
+
+The several different blood thinning drugs all have a risk: a drug that reduces the tendency of blood to clot thereby increases the risk of bleeding (since clots are a protective mechanism the body uses to try to stop bleeding).
+
+New guidelines recommend anticoagulation with drugs called direct acting oral anticoagulants (DOACs) for people with nonvalvular atrial fibrillation. This means they have normal heart valves. The DOACs include apixaban, dabigatran, edoxaban, and rivaroxaban. These drugs increasingly are used instead of warfarin.
+
+The DOACs do not require periodic blood tests, which are necessary with warfarin. They also may have a lower risk of bleeding. On the other hand, they are considerably more expensive, and because they are new there is less known about their possible long term side effects.
+
+The alternative to a DOAC is warfarin. Millions of people have taken this drug, over the past 70 years. Doctors have lots of experience in using it, and lots of knowledge about its possible side effects. Warfarin also needs to be monitored regularly: you need periodic blood tests to make sure the dose of warfarin has thinned the blood just enough and not too much.
+

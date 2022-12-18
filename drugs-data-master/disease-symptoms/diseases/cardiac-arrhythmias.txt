@@ -1,0 +1,104 @@
+
+Cardiac Arrhythmias
+
+Medically reviewed by Drugs.com. Last updated on Jun 6, 2022.
+
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What are Cardiac Arrhythmias?
+
+
+A cardiac arrhythmia is any abnormal heart rate or rhythm.
+
+In normal adults, the heart beats regularly at a rate of 60 to 100 times per minute. And the pulse (felt at the wrist, neck or elsewhere) matches the contractions of the heart's two powerful lower chambers, called the ventricles. The heart's two upper chambers, called the atria, also contract to help fill the ventricles. But this milder contraction occurs just before the ventricles contract, and it is not felt in the pulse.
+
+Under normal circumstances, the signal for a heartbeat comes from the heart's sinus node. It's the natural pacemaker located in the upper portion of the right atrium. From the sinus node, the heartbeat signal travels to the atrioventricular node or "A-V node," which is located between the atria. Next the signal travels through the bundle of His (pronounced HISS). It's made up of a series of modified heart muscle fibers located between the ventricles. The signal enters the muscles of the ventricles. This causes the ventricles to contract and produces a heartbeat.
+
+
+
+
+Cardiac arrhythmias sometimes are classified according to their origin as either ventricular arrhythmias (originating in the ventricles) or supraventricular arrhythmias (originating in heart areas above the ventricles, typically the atria). They also can be classified according to their effect on the heart rate, with bradycardia indicating a heart rate of less than 60 beats per minute and tachycardia indicating a heart rate of more than 100 beats per minute.
+
+Some common types of cardiac arrhythmias include:
+
+Sinus node dysfunction - This usually causes a slow heart rate (bradycardia), with a heart rate of 50 beats per minute or less. The most common cause is scar tissue that develops and eventually replaces the sinus node. Why this happens is not known. Sinus node dysfunction also can be caused by coronary artery disease, hypothyroidism, severe liver disease, hypothermia, typhoid fever or other conditions. It also can be the result of vasovagal hypertonia, an unusually active vagus nerve.
+Supraventricular tachyarrhythmias - This diverse family of cardiac arrhythmias causes rapid heartbeats (tachycardias) that start in parts of the heart above the ventricles. In most cases, the problem is either an abnormality in the A-V node or an abnormal pathway that bypasses the typical route for heartbeat signals.
+Atrial fibrillation - This is a supraventricular arrhythmia that causes a rapid and irregular heartbeat, during which the atria quiver or "fibrillate" instead of beating normally. During atrial fibrillation, heartbeat signals begin in many different locations in the atria rather than in the sinus node.
+
+Although these abnormal signals manage to trigger 300 to 500 contractions per minute within the atria, the extraordinarily high number of heartbeat signals overwhelms the A-V node. As a result, the A-V node sends sporadic, irregular signals to the ventricles, causing an irregular and usually rapid heartbeat of 100 to 180 beats per minute.  But the ventricular rate can be slower.
+
+The disordered heartbeat of atrial fibrillation cannot pump blood out of the heart efficiently. This causes blood to pool in the heart chambers and increases the risk of a blood clot forming inside the heart. The major risk factors for atrial fibrillation are age, high blood pressure, heart valve abnormalities, diabetes, and heart failure.
+
+
+
+
+A-V block or heart block - In this family of arrhythmias, there is some problem conducting the heartbeat signal from the sinus node to the ventricles. There are three degrees of A-V block:
+
+ First-degree A-V block, where the signal gets through, but may take longer than normal to travel from the sinus node to the ventriclesSecond-degree A-V block, in which some heartbeat signals are lost between the atria and ventriclesThird-degree A-V block, in which no signals reach the ventricles, so the ventricles beat slowly on their own with no direction from above
+
+Some causes of A-V block include cardiomyopathy, coronary artery disease, and medications such as beta blockers and digoxin.
+
+Ventricular tachycardia (VT) - This is an abnormal heart rhythm that begins in either the right or left ventricle. It may last for a few seconds (non-sustained VT) or for many minutes or even hours (sustained VT). Sustained VT is a dangerous rhythm and if it is not treated, it often progresses to ventricular fibrillation.
+Ventricular fibrillation - In this arrhythmia, the ventricles quiver ineffectively, producing no real heartbeat. The result is unconsciousness, with brain damage and death within minutes. Ventricular fibrillation is a cardiac emergency. Ventricular fibrillation can be caused by a heart attack, an electrical accident, a lightning strike or drowning.
+
+Symptoms
+
+Symptoms of specific arrhythmias include:
+
+Sinus node dysfunction - There may not be any symptoms, or it may cause dizziness, fainting and extreme fatigue.
+Supraventricular tachyarrhythmias - These can cause palpitations (awareness of a rapid heartbeat), low blood pressure and fainting.
+Atrial fibrillation - Sometimes, there are no symptoms. This can cause palpitations; fainting; dizziness; weakness; shortness of breath; and angina, which is chest pain caused by a reduced blood supply to the heart muscle. Some people with atrial fibrillation alternate between the irregular heartbeat and long periods of completely normal heartbeats.
+A-V block or heart block - First-degree A-V block does not cause any symptoms. Second-degree A-V block causes an irregular pulse or slow pulse. Third-degree A-V block can cause a very slow heartbeat, dizziness and fainting.
+VT - Non-sustained VT may not cause any symptoms or cause a mild fluttering in the chest. Sustained VT usually causes lightheadedness or loss of consciousness and can be lethal.
+Ventricular fibrillation - This causes absent pulse, unconsciousness and death.
+
+
+Diagnosis
+
+Your doctor will ask about your family history of coronary artery disease, cardiac arrhythmias, fainting spells or sudden death from heart problems. Your doctor also will review your personal medical history, including any possible risk factors for cardiac arrhythmias (such as coronary artery disease, cardiomyopathy, thyroid disorders, and medications). You will be asked to describe your specific cardiac symptoms, including any possible triggers for those symptoms.
+
+During the physical examination, your doctor will check your heart rate and rhythm, together with your pulses. This is because certain cardiac arrhythmias cause a mismatch of the pulse and the heart sounds. Your doctor also will check for physical signs of an enlarged heart and for heart murmurs, one sign of a heart valve problem.
+
+A test called an electrocardiogram (EKG) often can confirm the diagnosis of a cardiac arrhythmia. However, because cardiac arrhythmias may come and go, a one-time office EKG may be normal. If this is the case, an ambulatory EKG may be required. During an ambulatory EKG, the patient wears a portable EKG machine called a Holter monitor, usually for 24 hours, but sometimes much longer. You will be taught to press a button to record the EKG reading whenever you experience symptoms. This approach is especially useful if your symptoms are infrequent.
+
+
+
+When a patient has ventricular fibrillation, it is an emergency. The patient is unconscious, not breathing, and doesn't have a pulse. If available, electrical cardioversion must be administered as soon as possible. If not available, then cardiopulmonary resuscitation (CPR) should be started.
+
+Expected Duration
+
+How long a cardiac arrhythmia lasts depends on its cause. For example, atrial fibrillation that is caused by an overactive thyroid may go away when the thyroid problem is treated. However, cardiac arrhythmias that result from progressive or permanent damage to the heart tend to be long-term problems. When a heart attack causes ventricular fibrillation, death can occur within minutes.
+
+Prevention
+
+Cardiac arrhythmias that result from coronary artery disease can be prevented by taking the following actions to modify your risk factors:
+
+Eat a heart healthy diet, including eating an abundance of vegetables and fruits, fish, and plant sources for protein and avoiding saturated and trans fats.
+Control your cholesterol and high blood pressure.
+Quit smoking.
+Control your weight.
+Get regular exercise.
+
+Cardiac arrhythmias related to medications can be minimized by checking with a health care professional or pharmacist about any potential drug interactions. You might have to switch to another medication or reduce the dose of a problem medication. Ventricular fibrillation resulting from electrical shock can be prevented by following routine safety precautions around live wires and by seeking shelter during electrical storms.
+
+Not all cardiac arrhythmias can be prevented.
+
+Treatment
+
+
+The treatment of a cardiac arrhythmia depends on its cause:
+
+Sinus node dysfunction - In people with frequent, severe symptoms, the usual treatment is a permanent pacemaker.
+Supraventricular tachyarrhythmias - The specific treatment depends on the cause of the arrhythmia. In some people, massaging the carotid sinus in the neck will stop the problem. Other people need medications such as beta-blockers, calcium channel blockers, digoxin (Lanoxin) and amiodarone (Cordarone). Some patients respond only to a procedure called radiofrequency catheter ablation, which destroys an area of tissue in the A-V node to prevent excess electrical impulses from being passed from the atria to the ventricles.
+
+
+
+Atrial fibrillation - Atrial fibrillation resulting from an overactive thyroid can be treated with medications or surgery. Fibrillation resulting from mitral or aortic valve disease may be treated by replacing damaged heart valves. Medications, such as beta-blockers (for example atenolol and metoprolol), amiodarone, diltiazem (Cardizem, Tiazac) or verapamil (Calan, Isoptin, Verelan), can be used to slow the heart rate. Drugs such as amiodarone can be used to reduce the chances that the atrial fibrillation will return. Other treatment options include radiofrequency catheter ablation, or electrical cardioversion, a procedure that delivers a timed electrical shock to the heart to restore normal heart rhythm.
+A-V block - First-degree A-V block typically does not require any treatment. People with second-degree A-V block may be monitored with frequent EKGs, especially if they do not have any symptoms and have a heart rate that is adequate for their daily activities. Some patients with second-degree heart block may require permanent pacemakers. Third-degree A-V block is almost always treated with a permanent pacemaker.
+VT - Non-sustained VT may not need to be treated if there is no structural damage to the heart. Sustained VT always needs treatment, either with intravenous medication or emergency electrical shock (defibrillation), which can restore the heart's normal rhythm.
+Ventricular fibrillation - This is treated with defibrillation, giving the heart a measured electrical shock to restore normal rhythm. The electrical shock can be delivered on the skin over the heart in an emergency situation. People who have survived ventricular fibrillation and those at high risk are potential candidates for an automatic implantable cardioverter defibrillator. The device is similar to a pacemaker, with wires attached to the heart that connect an energy source placed under the skin. The procedure is done in the operating room.
+

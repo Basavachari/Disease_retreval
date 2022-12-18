@@ -1,0 +1,373 @@
+[
+    {
+        "id":1,
+        "condition": "yaws",
+        "link": "https://www.drugs.com/condition/yaws.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":2,
+        "condition": "yeast infection (vaginal) (vaginal yeast infection)",
+        "link": "https://www.drugs.com/condition/vaginal-candidiasis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "fluconazole",
+                "rating": 6.4,
+                "reviews": 411,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "diflucan",
+                "rating": 5.8,
+                "reviews": 117,
+                "activity": 64,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clotrimazole",
+                "rating": 8.9,
+                "reviews": 18,
+                "activity": 24,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gyne-lotrimin",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 16,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nystatin",
+                "rating": 3.6,
+                "reviews": 11,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "miconazole",
+                "rating": 3.0,
+                "reviews": 4128,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clotrimazole-3",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 10,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "terconazole",
+                "rating": 5.7,
+                "reviews": 143,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ketoconazole",
+                "rating": 5.8,
+                "reviews": 7,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sporanox",
+                "rating": 10,
+                "reviews": 5,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nystop",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nyamyc",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "terazol",
+                "rating": 7.7,
+                "reviews": 3,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gyne-lotrimin 3 day",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "itraconazole",
+                "rating": 9.4,
+                "reviews": 9,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 7",
+                "rating": 3.6,
+                "reviews": 727,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gynazole-1",
+                "rating": 9.3,
+                "reviews": 4,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 1 combination pack",
+                "rating": 3.5,
+                "reviews": 384,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 3",
+                "rating": 3.7,
+                "reviews": 639,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tioconazole",
+                "rating": 4.2,
+                "reviews": 1673,
+                "activity": 3,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "butoconazole",
+                "rating": 9.3,
+                "reviews": 4,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "m-zole 3",
+                "rating": 1.0,
+                "reviews": 3,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "micon 7",
+                "rating": 8.0,
+                "reviews": 3,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vagistat-1",
+                "rating": 6.7,
+                "reviews": 22,
+                "activity": 1,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vagistat-3",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "avc",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "brexafemme",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ibrexafungerp",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "oteseconazole",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sulfanilamide",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tioconazole 1 day",
+                "rating": 5.0,
+                "reviews": 157,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vivjoa",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":3,
+        "condition": "yellow fever prophylaxis",
+        "link": "https://www.drugs.com/condition/yellow-fever-prophylaxis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "yellow fever vaccine",
+                "rating": 2.3,
+                "reviews": 4,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "yf-vax",
+                "rating": null,
+                "reviews": null,
+                "activity": 59,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "stamaril",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 30,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+
+Waldenstrom Macroglobulinemia
+
+Medically reviewed by Drugs.com. Last updated on Sep 20, 2022.
+What Is It?
+
+Waldenström macroglobulinemia (WM) is a rare, slow-growing cancer. It is a form of non-Hodgkin lymphoma. WM is also known as lymphoplasmacytic lymphoma.
+WM begins in the immune system. It starts in white blood cells called B lymphocytes (B cells). B cells play a key role in the body's immune system. Some B cells develop into plasma cells. Plasma cells make antibodies (also called immunoglobulins). Antibodies help the body attack bacteria, viruses, and other foreign substances.
+Sometimes B cells become cancerous before turning into mature plasma cells. These abnormal B cells multiply out of control. They produce large amounts of IgM antibody (immunoglobulin M). High levels of IgM can cause a person's blood to thicken. This makes it harder for blood to flow through the body. (Multiple myeloma, another form of cancer of plasma cells, causes similar abnormalities. The type of immunoglobulin the cells produce helps distinguish one from the other.)
+As they grow out of control, lymphoma cells can crowd out the cells that normally develop into healthy blood cells. This can lead to low numbers of red blood cells, white blood cells, and platelets. Low levels of these blood cells trigger many of the symptoms associated with WM.
+The cells involved in WM grow mostly in the bone marrow. The bone marrow is the soft, spongy tissue inside most bones.
+WM mainly affects older adults. It is not curable, but it is usually treatable.
+Symptoms
+Some patients do not have signs or symptoms of WM. In these cases, WM may be detected during a routine blood test.
+Those who do have symptoms may experience
+weakness and severe fatigueloss of appetite or weightfeverbleeding from the nose and gumseasy bruising of the skinnight sweatsswollen lymph nodes in the neck, groin, or armpitsenlarged spleen and liver (felt as a swollen belly)numbness or tingling in the hands, feet , legs, ears, or nosevision problemsheadaches, dizziness, or confusion.
+Several conditions may result from WM, but not all patients develop them:
+Hyperviscosity syndrome: Buildup of the IgM antibody can cause the blood to become abnormally thick (viscous) and have trouble circulating. This can result in headache, dizziness, confusion, and blurred vision. It can also cause stroke-like symptoms such as slurred speech. Hyperviscosity syndrome can be life-threatening.Cryoglobulinemia: The IgM antibody makes the blood thick only at cooler temperatures. The patient's hands and feet may hurt in the cold.Cold agglutinin disease: The IgM antibody causes red blood cells to be destroyed when temperatures are low. Circulation in a person's fingers, nose, ears, and toes may be affected.Amyloidosis: The IgM antibody collects in one or more organs. This can damage the organ and hinder its function. A patient may experience weakness, trouble breathing, and swelling in the feet and legs.
+Diagnosis
+Your doctor may suspect WM if a routine blood test shows low blood counts or unusual protein levels.
+The following tests are usually done to confirm the diagnosis:
+Additional blood tests measure levels of different antibodies, particularly IgM. IgM must be present in the blood for a WM diagnosis. Blood tests may also measure other proteins as well as the blood's thickness.Bone marrow biopsy detects abnormal lymphocytes in the bone marrow. A long needle removes a small sample of bone and liquid bone marrow from the hipbone or breastbone. A doctor examines the sample for abnormal cells.Flow cytometry looks for tumor markers, substances released by the cancer. A particular tumor marker found on the surface of lymphocytes may signal WM. Flow cytometry can help determine the exact type of lymphoma.Cytogenetics examines the genetic material of the lymphoma cells.Other exams may also be done to confirm the diagnosis. These include urine tests and imaging tests such as computed tomography (CT) scans or x-rays.
+Expected Duration
+WM is a slow-growing disease. Patients with WM often live for many years before requiring treatment. Regular checkups are strongly recommended to watch for progression.
+Prevention
+Scientists do no know what causes WM. Several risk factors increase a person's chances of developing WM, but most are not preventable.
+Risk factors for WM include:
+age. The likelihood of developing WM increases as you grow older.being white.being male.chronic hepatitis C. You can reduce your chances of being infected with hepatitis C by using a latex condom when you have sex. Also, do not inject drugs or share needles. Make sure needles used for body piercing or tattoos are properly sterilized.genetic changes. Certain genetic changes increase risk. These changes appear to develop during a person's lifetime, rather than being passed on from a parent.defective bone marrow cells. Certain cells in the bone marrow of people with WM may release too much of a hormone involved in cell growth.having abnormal antibody-producing cells.
+Most people with these risk factors do not develop the disease.
+Treatment
+People with WM who have no symptoms of the disease are usually followed until symptoms or complications develop. This allows them to avoid the side effects of chemotherapy until they need treatment. Treatment begins if they have
+hyperviscosity syndromeanemia (low levels of red blood cells)kidney problemsheart problemsnerve damage.
+There is no standard treatment for a patient with WM. Treatment usually involves chemotherapy, biological therapy, or a combination of the two. Many people with WM require more than one type of chemotherapy or biological therapy over time.
+Chemotherapy
+Chemotherapy drugs stop the growth of cancer cells. They are usually taken by mouth or injected into a vein or muscle. Several different anticancer drugs are used to treat WM. They can cause temporary side effects such as
+mouth soresnauseahair lossinsomnia.
+Biological therapy
+This approach is also called immunotherapy. It stimulates the immune system to fight the cancer. Biological therapy uses naturally occurring substances, such as monoclonal antibodies, growth factors, and vaccines, to fight the cancer. Like chemotherapy, immunotherapy may cause side effects.
+High-dose chemotherapy with stem cell transplant
+In this procedure, stem cells (immature blood cells) are removed from the patient's blood or bone marrow. Once removed, they are frozen. The patient receives high-dose chemotherapy. The stored stem cells are then infused into the patient's bloodstream. These cells grow into new blood cells. Stem cell transplants have significant short- and long-term side effects.
+Plasmapheresis
+Plasmapheresis is also called plasma exchange. It may be performed to relieve symptoms caused by a thickening of the blood.
+During plasmapheresis, blood is removed from the patient. It is passed through a machine that separates the plasma (the liquid part of the blood that contains the abnormal IgM antibody) from other parts (red blood cells, white blood cells, and platelets). The red and white blood cells and platelets are returned to the patient. In addition, the patient is given a plasma substitute or donated plasma.
+Plasmapheresis reduces IgM to safe levels and makes the blood less viscous. But it does not affect the lymphoma cells that produce the IgM antibody.
+Other treatments
+Patients with low levels of red blood cells, white blood cells, or platelets may be given transfusions, antibiotics, or medicines.
+WM can develop into an aggressive form of lymphoma. Patients facing this situation are often treated with combinations of drugs that are similar to those used to treat non-Hodgkin lymphoma.
+When you are considering a treatment option, ask your doctor about the risks and possible benefits. How will this treatment affect my prognosis? What will my quality of life be like during and after treatment?
+When To Call a Professional
+Contact your doctor if you experience symptoms of WM, but more likely due to some other condition. These include
+weakness and severe fatigueloss of appetite and weightfeverabnormal bleeding from the nose and gumseasy bruisingnight sweatsswollen glandsenlarged spleen and liver (felt as a swollen belly)numbness or tinglingvision problemsheadaches, dizziness, or confusion.
+Additional Information
+National Cancer Institute (NCI)www.cancer.gov/
+American Cancer Society (ACS)www.cancer.org/
+Leukemia & Lymphoma Society
+1311 Mamaroneck Ave.
+White Plains, NY 10605
+914-949-5213
+Toll-Free: 800-955-4572www.lls.org
+National Cancer Institute (NCI)www.cancer.gov/
+American Cancer Society (ACS)www.cancer.org/
+Leukemia & Lymphoma Society
+1311 Mamaroneck Ave.
+White Plains, NY 10605
+914-949-5213
+Toll-Free: 800-955-4572www.lls.org
+
+
+Learn more about Waldenstrom Macroglobulinemia
+Treatment options
+
+Medications for Waldenström Macroglobulinemia
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

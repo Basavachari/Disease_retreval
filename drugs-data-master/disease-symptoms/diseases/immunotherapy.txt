@@ -1,0 +1,74 @@
+
+Immunotherapy
+
+Medically reviewed by Drugs.com. Last updated on Jan 12, 2022.
+
+What is Immunotherapy?
+
+
+Immunotherapy refers to treatments that stimulate, enhance or suppress the body's own immune system.
+
+Immunotherapy is also called:
+
+Biological therapy 
+Biological response modifier therapy
+
+Immunotherapy is used to treat certain types of cancer. It is also used to treat inflammatory diseases, such as. These include:
+
+Rheumatoid arthritis 
+Inflammatory bowel diseases, including ulcerative colitis and Crohn's disease  
+Multiple sclerosis  
+Psoriasis
+
+Our body's immune system recognizes cancer cells as foreign or abnormal. Unlike normal cells, cancer cells have unique proteins (antigens) on their outer surface. Antibodies are proteins produced by the immune system. They latch onto the cancer cells' antigens. In this way, they label or tag the abnormal cells.
+
+Ideally, special cells in the immune system would be recruited to destroy the tagged cancer cells. Sometimes, however, the immune system needs some help.
+
+
+Biological therapy helps to stimulate the immune system to fight cancer. The chemicals used in immunotherapy often are called biological response modifiers. They enhance the body's normal immune-system reaction to a cancer threat.
+
+Some biological response modifiers are chemicals that occur naturally in the body. But they are produced in larger amounts in a laboratory to help boost a person's immune response.
+
+Biological response modifiers can play many different roles in fighting cancer. For example, they can:
+
+Recruit more immune system cells to attack a tumor 
+Make cancer cells more vulnerable to an attack by the immune system 
+Change the way cancer cells grow 
+Coax cancer cells into behaving more like normal cells
+
+Immunotherapy also can be used to suppress the immune system. This is particularly helpful in autoimmune disorders. In these disorders, the immune system "misfires." It wrongly attacks normal tissues.
+
+Inflammation is useful for fighting infection. But in autoimmune diseases, it damages normal tissues. Biological therapies can cool off this harmful inflammation.
+
+Examples of biological therapies currently in use include:
+
+Interferons. Boost the body's immune response. They also can act directly on cancer cells to control their rapid growth.  
+Interleukins. Stimulate growth of the body's immune cells, especially lymphocytes. Lymphocytes are a type of white blood cell.  
+Colony stimulating factors (CSFs). Encourage the growth of bone marrow stem cells. Bone-marrow stem cells, especially white blood cells, are needed to fight infections. But they often are destroyed by cancer treatments such as chemotherapy or radiation.  CSFs are used after other cancer therapies. They help to grow a new population of cells in the blood. 
+Monoclonal antibodies. These are made in a laboratory. They recognize the antigens on the surface of cancer cells.  Monoclonal antibodies can be used alone. Or they can be linked to anti-cancer drugs or to radioactive substances. They can carry these linked poisons directly to tumor cells inside the body.   Some antibodies acting alone can significantly interfere with cancer cells. They can stop them from growing. Or they can cause them to be destroyed by the body's immune system. Monoclonal antibodies spare the body's normal cells.  Monoclonal antibodies also may help people with autoimmune diseases. They target immune cells or chemical messengers involved in inflammation. Monoclonal antibodies may reduce inflammation and pain, which helps improve joint function in people with rheumatoid and psoriatic arthritis.
+
+
+What It's Used For
+
+Different biological response modifiers are currently being used against many different types of cancer.
+
+Interferons have been used to treat:
+
+Kidney cancer 
+Kaposi's sarcoma 
+Melanoma  
+Certain types of leukemia and lymphoma
+
+Interleukin-2 (IL-2) may be effective for kidney cancer and advanced melanoma.
+
+Rituximab (Rituxan) is a monoclonal antibody. It is used to treat non-Hodgkin's lymphoma and chronic lymphocytic leukemia. This treatment is also used for autoimmune and inflammatory conditions, such as rheumatoid arthritis, that are not responding to other agents.
+
+Other examples of monoclonal antibody treatments include:
+
+Tocilizumab (Actemra) for rheumatoid arthritis  
+Trastuzumab (Herceptin) for breast cancer
+
+Anti-TNF therapy inhibits the production of tumor necrosis factor. It is one of the most effective treatments for rheumatoid arthritis, inflammatory bowel disease and other inflammatory diseases when conventional drugs fail.
+
+Examples of some anti-TNF medications include:
+

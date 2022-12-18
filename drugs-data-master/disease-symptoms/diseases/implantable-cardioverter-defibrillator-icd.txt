@@ -1,0 +1,120 @@
+
+Implantable Cardioverter Defibrillator (ICD)
+
+Medically reviewed by Drugs.com. Last updated on Nov 26, 2021.
+
+What is an Implantable Cardioverter Defibrillator (ICD)?
+
+
+An implantable cardioverter defibrillator (ICD) is a potentially lifesaving medical device that is placed inside the body. An ICD treats life-threatening abnormal heart rhythms (called arrhythmias), including ventricular fibrillation, which makes the heart's large muscular chambers (the ventricles) quiver without actually squeezing and pumping. When this happens, there is no real heartbeat and not enough blood flows to the brain or other organs, including the heart. As a result, a person with ventricular fibrillation passes out and can die within minutes.
+
+An ICD is made of two parts. The pulse generator looks like a small box. It is implanted under the skin below the collarbone. The box contains a lithium oxide battery (which lasts about five to nine years) and electrical components that analyze the heart's electrical activity. Connected to the pulse generator are one or more electrodes, which travel to the heart. When the ICD senses an abnormal heart rhythm, it administers a brief, intense electrical shock to the heart, correcting the abnormal rhythm. Many people say that the shock feels like being punched in the chest, although the amount of discomfort varies.
+
+In addition to "zapping" the heart back to a normal rhythm, ICDs also can generate milder electrical impulses. These impulses can artificially regulate or "pace" the heartbeat if the heart develops other types of arrhythmias. For example, ICD impulses can help to slow down the heart when a person has ventricular tachycardia, an abnormally fast heartbeat. ICD impulses also can speed up the heartbeat in cases of bradycardia, an abnormally slow heartbeat.
+
+An ICD also keeps a record of its actions. This record helps your doctor to monitor how often you have arrhythmias and how dangerous they are. It also allows your doctor to see how well the ICD is working.
+
+
+ICDs must be checked periodically. Surgery isn't required. A special radio transmitter can receive information from the ICD. Also, ICDs can be reprogrammed to improve performance. Adjustments are made with a small, wand like instrument held near the body.
+
+To prevent an unexpected loss of power, ICDs have a built-in warning signal that tells the doctor when the battery is low. This signal appears several months before the battery expires. It can be detected in the doctor's office during a routine ICD checkup.
+
+The first ICDs in the 1980s were fairly simple. They only treated ventricular fibrillation, and they had a relatively large pulse generator (about the size of a pack of cigarettes). Implanting them required major, open-heart surgery, followed by a long hospital stay. Newer ICDs have pulse generators that are approximately 1 inch (2.5 centimeters) in diameter and weigh less than 1.4 ounces (about 40 grams). Their pulse generators are inserted under the skin through a small incision, and the electrodes can be threaded through veins without surgically opening the chest. Because of these improvements, ICD implantation is now classified as minor surgery.
+
+ICDs are implanted in a hospital operating room or in a cardiac electrophysiology laboratory.
+
+What It's Used For
+
+Doctors use ICDs to prevent sudden death caused by certain types of heart arrhythmias. Here are some reasons why a person might be considered for an ICD:
+
+You survived one episode of life-threatening ventricular fibrillation.
+You have had episodes of an abnormally fast heartbeat (ventricular tachycardia).
+You have an enlarged heart resulting from a heart disease called dilated cardiomyopathy and fainting spells (unexplained syncope).
+You have coronary artery disease, your heart is pumping a low volume of blood and you have a high risk of ventricular fibrillation or ventricular tachycardia.
+You have a genetic (inherited) form of heart disease that can cause sudden death (hypertrophic cardiomyopathy), even in young people.
+
+Preparation
+
+Your doctor will review your medical history and allergies. He or she will ask for a list of your current medications. If you are taking medicines to prevent blood clots (anticoagulants), your doctor will tell you when to stop taking these drugs. He or she also will provide instructions about when to stop eating and drinking before the procedure.
+
+How It's Done
+
+Before surgery, you will dress in a hospital gown and remove any jewelry and watches.
+
+
+The most common location to place the ICD's pulse generator is below the left collarbone. The skin in this area will be shaved, cleaned and numbed with a local anesthetic. If you need more than a local anesthetic to make you feel comfortable, your doctor may use conscious sedation, a form of anesthesia that allows you to remain awake and pain-free during surgery.
+
+A small incision will be made in the numbed area near your collarbone. Next, a small incision will be made in a vein under your collarbone. This vein will be used as the passageway for threading the ICD's electrode(s) into your heart. Some ICD models use one electrode, others use more.
+
+The doctor will insert the electrode(s) into the vein and guide the electrode(s) into your heart. X-rays will confirm that the electrode(s) are positioned correctly. Wires from the electrode(s) will be connected to the pulse generator, which will then be nestled near your collarbone. Your doctor will test the ICD to make sure it is working correctly. To do this, the doctor will trigger cardiac arrhythmias on purpose, and then observe how the ICD responds. During this part of your surgery, you will receive general anesthesia to allow you to sleep through the ICD testing.
+
+Once the doctor is sure that your ICD is working properly, the incision will be closed with stitches (sutures) or surgical staples. The entire procedure usually takes one to two hours.
+
+After surgery, your medical team will monitor your condition closely. During this time, your doctor may use a handheld magnetic instrument to make programming adjustments in your ICD. If all goes well, your hospital stay should be brief.
+
+Before you leave the hospital, you will receive instructions about safely recuperating. In particular, you should avoid heavy lifting and other strenuous arm movements for a few weeks. These activities can dislodge or shift the position of the ICD electrodes inside your heart.
+
+You will receive information about driving restrictions and participating in contact sports. Your doctor also will tell you how to reduce your risk of electromagnetic interference, which can affect the programming and performance of your ICD. This interference can come from anti-theft devices, surveillance equipment, cell phones, welding equipment and hospital machinery, such as magnetic resonance imaging scanners.
+
+Before you go home, your doctor will give you information about the make and model of your ICD. Print this information on an identification card and carry it with you. You also may want to wear a medical alert necklace or bracelet that identifies you as someone with an ICD.
+
+Follow-Up
+
+Your doctor probably will schedule your first checkup for one to two weeks after surgery. At this visit, the doctor will inspect your incision and remove your sutures or staples. He or she also will check that your ICD is working correctly.
+
+After your first follow-up visit, you probably will return for ICD checkups every three to six months. If you have no problems or complaints, this follow-up schedule should continue for the next three to four years. During follow-up visits, your doctor will check your ICD's battery level, programming and electronic record. After three to four years, depending on your progress, checkups may be scheduled less often.
+
+
+Risks
+
+More than 99% of patients survive the ICD procedure, and fewer than 3% have complications related to surgery. Complications of ICD surgery can include:
+
+Infection
+Excessive bleeding
+Perforation of the heart muscle or lung
+Stroke or heart attack (myocardial infarction)
+Formation of a blood collection (hematoma) under the skin surface
+Once the ICD is in place, there is also a long-term risk of:
+Dislodging the ICD electrodes
+Fracture of an electrode tip
+Broken insulation on an ICD wire
+Inappropriate firing of the ICD (This often occurs in response to arrhythmias that are not coming from the ventricles.)
+Wearing away (erosion) of the skin where the pulse generator is located
+Short circuit or other electrical failure of the ICD
+
+When To Call a Professional
+
+After your surgery, contact your doctor immediately if:
+
+The area around your incision becomes red, swollen, hot or painful
+The edges of your incision leak blood or pus
+A suture or staple pops open, and the edges of your incision pull away from each other
+You develop a fever or chills
+The skin over your pulse generator begins to break down
+Electrical impulses from your ICD cause significant pain or discomfort
+Seek emergency medical care immediately if you have an ICD and:
+You feel faint or dizzy
+You have chest pain or shortness of breath
+You develop palpitations or a very irregular heartbeat
+
+External resources
+
+National Heart, Lung, and Blood Institute (NHLBI)
+
+https://www.nhlbi.nih.gov/
+
+American College of Cardiology
+
+https://www.acc.org/
+
+Heart Rhythm Society
+
+https://www.hrsonline.org/
+
+
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

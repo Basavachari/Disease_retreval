@@ -1,0 +1,120 @@
+
+Sick Sinus Syndrome
+
+Medically reviewed by Drugs.com. Last updated on Jan 26, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Sick Sinus Syndrome?
+
+
+Sick sinus syndrome is an umbrella term that covers three heart rhythm problems (arrhythmias):
+
+sinus bradycardia, which causes a slow heart rate
+tachycardias, which cause fast heart rates, often followed by a very slow heart rate. Types of tachycardias include atrial fibrillation, atrial flutter/tachycardia, and supraventricular tachycardia
+bradycardia-tachycardia, which causes alternating slow and fast heart rhythms
+
+A problem with a part of the heart called the sinus node causes these arrhythmias. This group of specialized cells in the upper right chamber of the heart controls the heart's rhythm by sending electrical signals that tell the heart to beat. In someone with sick sinus syndrome, these signals do not come at a steady pace.
+
+Sick sinus syndrome is a relatively uncommon problem. How many people have it is hard to say because it often doesn't cause any symptoms and therefore many people may be living with it and not know it. One study estimates that sick sinus syndrome occurs in about one in every 600 people with cardiovascular disease older than 65. It is even less common in younger people. The average age of a person with sick sinus syndrome is about 68. Of the three arrhythmias that fall under the term sick sinus syndrome, sinus bradycardia is the most common.
+
+
+What causes sick sinus syndrome is not completely understood, but we do know that disorders that cause scarring, degeneration, or damage to the heart can cause sick sinus syndrome. These include:
+
+idiopathic degenerative disease (changes to the area of the heart around the sinus node that occur with aging)
+cardiovascular disease
+heart attack
+high blood pressure
+structural defects in the heart
+
+Certain medications can make abnormal heart rhythms worse. These include the following drugs, which are all prescribed for various heart problems:
+
+digitalis (also known as digoxin)
+calcium channel blockers
+beta-blockers
+anti-arrhythmic drugs
+
+Symptoms
+
+Most of the time, sick sinus syndrome doesn't cause any symptoms. When it does cause symptoms, they are very vague and can be attributed to many other disorders. Therefore, it is very hard to diagnose sick sinus syndrome just on the basis of symptoms.
+
+Symptoms may include:
+
+fatigue
+decreased exercise tolerance
+dizziness or lightheadedness
+fainting or near-fainting
+the sensation of feeling the heart beat (palpitations)
+shortness of breath
+
+Over the long term, sick sinus syndrome can increase your risk for stroke and heart failure. Injuries can occur if you fall during a fainting episode.
+
+Diagnosis
+
+Your doctor might suspect you have sick sinus syndrome if he or she detects a very slow or irregular heart beat when examining you. (However, even people with sick sinus syndrome may have a normal heart beat during an office visit, especially if they are not having any symptoms at that time.)
+
+
+If an abnormal heart rate is detected, your doctor will review the medications you take to make sure that none of them are contributing to the problem. You will also get an electrocardiogram (EKG, which is a test that can detect arrhythmias). However, an EKG may not tell your doctor for certain what condition is causing your problem, so further testing is often necessary.
+
+One of the common tests for sick sinus syndrome is a Holter monitor. Like an EKG, a Holter monitor records the heart's electrical activity via electrodes, but a Holter monitor is attached to a small recording device. That way, you can wear the Holter monitor (also called an event monitor) and go about your day-to-day activities. When you feel an arrhythmia symptom, you write down the date and time. Then your doctor compares the timing of your symptoms to the timing of any abnormalities that the monitor records.
+
+If your doctor still can't diagnose the problem, he or she may suggest you get an electrophysiologic study (EPS). This is an invasive procedure, which is why it is used only after other less serious tests are tried.
+
+For the study, a cardiologist inserts a thin tube, called a catheter, into an incision in your groin. The doctor then snakes the tube through your body to the heart. The catheter has tiny instruments on its tip, including a camera so the doctor can see where the catheter is going. The pictures show up on a screen in the operating room.
+
+The other instruments on the tip of the catheter allow it to sense electrical patterns of your heart and to act as a temporary pacemaker. The pacemaker delivers small electrical shocks to the heart. You can't feel these shocks.
+
+The cardiologist will use the pacemaker to vary the speed of your heartbeat. At the same time, a running EKG can show whether your heart's electrical pathways are responding appropriately to the pacemaker. The cardiologist usually speeds up the heart rate, and then turns off the pacemaker for several seconds. Your sinus node should recognize the absence of electrical activity in the heart and turn itself on. If it doesn't, you likely have sick sinus syndrome.
+
+Expected Duration
+
+Sick sinus syndrome doesn't go away. You might go for a long time without having any problems, but you still are not cured. In fact, sick sinus syndrome almost always gets worse with time.
+
+Prevention
+
+In many cases, it is not possible to prevent sick sinus syndrome. However, preventing the diseases that lead to sick sinus syndrome (see above) can lead to better cardiovascular health overall and likely prevent sick sinus syndrome. Eating well, exercising, maintaining a healthy weight, and avoiding tobacco can prevent many heart problems. Medications are also sometimes necessary for heart disease prevention.
+
+
+Treatment
+
+If you don't have symptoms, treatment may not be necessary. If you are taking a medication that could be the cause, your doctor will likely tell you to stop taking that drug.
+
+People who have sinus bradycardia with symptoms usually need to have a permanent pacemaker implanted. This small device gets placed under the skin of your chest during a surgical procedure. Pacemakers use electrical pulses to prompt the heart to beat at a normal rate.
+
+People with sick sinus syndrome and fast heart rates often cannot tolerate the usual heart-slowing medications. There is a risk that these medications can cause the heart to stop beating. These people also require permanent pacemakers.
+
+When To Call a Professional
+
+If you experience any of the symptoms listed above, see your doctor.
+
+Prognosis
+
+The outlook for someone with sick sinus syndrome varies greatly, depending on the type of arrhythmia, the age of the person, and any other heart problems that are present. Generally speaking, sick sinus syndrome gets worse with time. That said, people who have pacemakers implanted to control their arrhythmias generally do very well.
+
+Learn more about Sick Sinus Syndrome
+Treatment options
+
+Medications for Sinus Node Dysfunction
+
+External resources
+
+American Heart Association
+
+www.heart.org
+
+National Institutes of Health
+
+www.nih.gov
+
+
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

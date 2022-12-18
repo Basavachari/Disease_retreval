@@ -1,0 +1,232 @@
+
+Non-Small Cell Lung Cancer
+
+Medically reviewed by Drugs.com. Last updated on Aug 5, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Non-Small Cell Lung Cancer?
+
+
+One of the most common cancers, lung cancer usually occurs when a cancer-causing agent, or carcinogen, triggers the growth of abnormal cells in the lung. These cells multiply out of control and eventually form a tumor. As the tumor grows, it can block or narrow airways and make breathing difficult. Eventually, tumor cells can spread (metastasize) to nearby lymph nodes and other parts of the body. These include the
+
+liver
+
+
+bones
+
+
+adrenal glands
+
+
+brain.
+
+In most cases, the carcinogens that trigger lung cancer are chemicals found in cigarette smoke. However, more and more lung cancers are being diagnosed in people who have never smoked.
+
+Lung cancers are divided into two groups: non-small cell lung cancer (NSCLC) and small cell lung cancer. NSCLC accounts for about 85% of all lung cancers. These cancers are further divided into subgroups, based on how their cells look under a microscope:
+
+Adenocarcinoma. This is the most common type of NSCLC. Although it is related to smoking, it is the most common type of lung cancer in nonsmokers. It is also the most common form of lung cancer in women and in people younger than 45. It usually develops near the edge of the lung. It can also involve the pleura, the membrane covering the lung. Recent identification of specific genetic mutations has led to targeted therapies that can improve the prognosis.
+
+
+Squamous cell carcinoma. This type of NSCLC tends to form a mass near the center of the lungs. As the mass gets larger, it can bulge into one of the larger air passages, or bronchi. In some cases, the tumor forms a cavity in the lungs.
+
+
+Large cell carcinoma. Like adenocarcinoma, large cell carcinoma tends to develop at the edge of the lungs and spread to the pleura. Like squamous cell carcinoma, it can form a cavity in the lungs.
+
+
+Adenosquamous carcinoma, undifferentiated carcinoma, and bronchioloalveolar carcinoma. These are relatively rare NSCLCs.
+
+
+NSCLC is more likely than small cell cancer to be localized at the time of diagnosis. That means the cancer is limited to the lung or that it hasn’t spread beyond the chest. As a result, it can usually be treated with surgery. It may not respond well to chemotherapy (anticancer drugs). However, sophisticated genetic tests can help predict which patients may show favorable responses to particular treatments, including chemotherapy.
+
+Unfortunately, even when doctors think that the cancer is localized, it often comes back after surgery. This means cancer cells had started to spread before surgery, but they couldn’t yet be detected.
+
+Your risk of all types of lung cancer, including NSCLC, increases if you
+
+smoke. Smoking cigarettes is by far the leading risk factor for lung cancer. In fact, cigarette smokers are 13 times more likely to develop lung cancer than nonsmokers. Cigar and pipe smoking are almost as likely to cause lung cancer as cigarette smoking.
+
+
+breathe tobacco smoke. Nonsmokers who inhale fumes from cigarette, cigar, and pipe smoking have an increased risk of lung cancer.
+
+
+are exposed to radon gas. Radon is a colorless, odorless radioactive gas formed in the ground. It seeps into the lower floors of homes and other buildings and can contaminate drinking water. Radon exposure is the second leading cause of lung cancer. It’s not clear whether elevated radon levels contribute to lung cancer in nonsmokers. But radon exposure does contribute to lung cancer in smokers and in people who regularly breathe high amounts of the gas at work (miners, for example). You can test radon levels in your home with a radon testing kit.
+
+
+are exposed to asbestos. Asbestos is a mineral used in insulation, fireproofing materials, floor and ceiling tiles, automobile brake linings, and other products. People exposed to asbestos on the job (miners, construction workers, shipyard workers, and some auto mechanics) have a higher-than-normal risk of lung cancer. People who live or work in buildings with asbestos-containing materials that are deteriorating also have an increased risk of lung cancer. The risk is even higher in people who also smoke. Asbestos exposure also increases the risk of developing mesothelioma, a relatively rare and usually fatal cancer. It usually starts in the chest and resembles lung cancer.
+
+
+are exposed to other cancer-causing agents at work. These include uranium, arsenic, vinyl chloride, nickel chromates, coal products, mustard gas, chloromethyl ethers, gasoline, and diesel exhaust.
+
+Symptoms
+
+In some cases, NSCLC is detected when a person with no symptoms has a chest x-ray or computed tomography (CT) scan for another reason. But most people with NSCLC have one or more of these symptoms:
+
+a cough that doesn’t go away
+
+
+coughing up blood or mucus
+
+
+wheezing
+
+
+shortness of breath
+
+
+trouble breathing
+
+
+chest pain
+
+
+fever
+
+
+discomfort when swallowing
+
+
+hoarseness
+
+
+weight loss
+
+
+poor appetite
+
+
+irregular heart beat from atrial fibrillation if the cancer touches the lining of the heart.
+
+
+If the cancer has spread beyond the lungs, it can cause other symptoms. For example, you may have bone pain if it has spread to your bones.
+
+Many of these symptoms can be caused by other conditions. See your doctor if you have symptoms so that the problem can be diagnosed and properly treated.
+
+Diagnosis
+
+Your doctor may suspect lung cancer based on
+
+your symptoms
+
+
+your smoking history
+
+
+whether you have lived with a smoker
+
+
+your exposure to asbestos and other cancer-causing agents.
+
+To look for evidence of cancer, your doctor will examine you, paying special attention to your lungs and chest. He or she will order imaging tests to check your lungs for masses. In most cases, a chest x-ray will be done first.
+
+If the x-ray shows anything suspicious, a CT scan will be done. As the scanner moves around you, it takes many pictures. A computer then combines the images. This creates a more detailed image of the lungs, allowing doctors to confirm the size and location of a mass or tumor.
+
+You may also have a magnetic resonance imaging (MRI) scan or a positron emission tomography (PET) scan. MRI scans provide detailed pictures of the body’s organs, but they use radio waves and magnets to create the images, not x-rays. PET scans look at the function of tissue rather than anatomy. Lung cancer tends to show intense metabolic activity on a PET scan. Some medical centers offer combined PET-CT scanning.
+
+If cancer is suspected based on these images, more tests will be done to make the diagnosis, determine the type of cancer, and see if it has spread. These tests may include the following:
+
+Sputum sample. Coughed up mucus is checked for cancer cells.
+
+
+Biopsy. A sample of abnormal lung tissue is removed and examined under a microscope in a laboratory. If the tissue contains cancer cells, the type of cancer can be determined by the way the cells look under the microscope. The tissue is often obtained during a bronchoscopy. However, surgery may be necessary to expose the suspicious area.
+
+
+Bronchoscopy. During this procedure, a tube-like instrument is passed down the throat and into the lungs. A camera on the end of the tube allows doctors to look for cancer. Doctors can remove a small piece of tissue for a biopsy.
+
+
+Mediastinoscopy. In this procedure, a tube-like instrument is used to biopsy lymph nodes or masses between the lungs. (This area is called the mediastinum.) A biopsy obtained this way can diagnose the type of lung cancer and determine whether the cancer has spread to lymph nodes.
+
+
+Fine-needle aspiration. With a CT scan, a suspicious area can be identified. A tiny needle is then inserted into that part of the lung or pleura. The needle removes a bit of tissue for examination in a laboratory. The type of cancer can then be diagnosed.
+
+
+Thoracentesis. If there is fluid build-up in the chest, it can be drained with a sterile needle. The fluid is then checked for cancer cells.
+
+
+Video-assisted thoracoscopic surgery (VATS). In this procedure, a surgeon inserts a flexible tube with a video camera on the end into the chest through an incision. He or she can then look for cancer in the space between the lungs and the chest wall and on the edge of the lung. Abnormal lung tissue can also be removed for a biopsy.
+
+
+Bone scans and CT scans. These imaging tests can detect lung cancer that has spread to the bones, brain, or other parts of the body.
+
+
+Surgery. Sometimes, the best approach is immediate surgery to remove the tumor. This occurs most often when there is a single spot on a CT scan and no evidence that the cancer has spread.
+
+
+After the cancer has been diagnosed, it is assigned a "stage." Stages of NSCLC reflect the tumor’s size and how far the disease has spread. Stages I through III are further divided into A and B categories.
+
+Stage I tumors are small and have not invaded the surrounding tissue or organs.
+
+
+Stage II and III tumors have invaded surrounding tissue and/or organs and have spread to lymph nodes.
+
+
+Stage IV tumors have spread beyond the chest.
+
+You may be tested for specific genetic mutations. Knowing about the presence of these mutations can help predict which therapy will be best. This strategy can be especially helpful in certain patients, such as women with adenocarcinoma of the lung who have never smoked.
+
+Expected Duration
+
+NSCLC will continue to grow and spread until it is treated. As with any cancer, even if it seems to be cured after treatment, NSCLC can return.
+
+Prevention
+
+To reduce your risk of lung cancer,
+
+don’t smoke. If you already smoke, talk to your doctor about getting the help you need to quit.
+
+
+avoid secondhand smoke. Choose smoke-free restaurants and hotels. Ask guests to smoke outdoors, especially if there are children in your home.
+
+
+reduce exposure to radon. Have your home checked for radon gas. A radon level above 4 picocuries/liter is unsafe. If you have a private well, have your drinking water checked, too. Kits to test for radon are widely available.
+
+
+reduce exposure to asbestos. Because there is no safe level of asbestos exposure, any exposure is too much. If you have an older home, check to see if any insulation or other asbestos-containing material is exposed or deteriorating. The asbestos in these areas must be professionally removed or sealed up. If the removal isn’t done properly, you may be exposed to more asbestos than you would have been if it had been left alone. People who work with asbestos-containing materials should use approved measures to limit their exposure and to prevent bringing asbestos dust home on their clothing.
+
+The U.S. Preventive Services Task Force recommends annual screening for lung cancer with low-dose computed tomography in adults ages 55 to 80 years:
+
+Have a 30 pack-year smoking history (pack years is calculated by multiplying the number of cigarettes smoked per day times the number of years you smoked), AND
+
+
+Are currently smoke or have quit within the past 15 years, AND
+
+
+Are healthy enough to undergo lung cancer surgery.
+
+The decision to proceed with lung cancer screening is not straightforward. Many so called abnormalities found on CT scan are not cancerous. However patients will often undergo extensive testing, including surgery, to find out. CT scan screening is an individualized decision to be made with your doctor.
+
+Treatment
+
+Surgery is the main treatment for NSCLC that has not spread beyond the chest. The type of surgery will depend on the extent of the cancer and the patient’s condition. It will also depend on whether other lung conditions, such as emphysema or COPD (chronic obstructive pulmonary disease), are present.
+
+There are three types of surgery:
+
+Wedge resection removes only a small part of the lung.
+
+
+Lobectomy removes one lobe of the lung.
+
+
+Pneumonectomy removes an entire lung.
+
+Lymph nodes are also removed and examined to see if the cancer has spread.
+
+
+Some surgeons use video-assisted thoracoscopy (VATS) to remove small, early-stage tumors, especially if the tumors are near the outer edge of the lung. (VATS can also be used to diagnose lung cancer.) Because the incisions for VATS are small, this technique is less invasive than a traditional "open" procedure.
+
+Because surgery will remove part or all of a lung, breathing may be more difficult afterwards, especially in patients with other lung conditions (emphysema, for example). Doctors can test lung function prior to surgery, which helps determine surgical risk and predict how lung function will be affected by surgery.
+
+Depending on how far the cancer has spread, treatment may include chemotherapy (the use of anticancer drugs) and radiation therapy. These may be given before and/or after surgery.
+
+When the tumor has spread significantly, chemotherapy may be recommended to slow its growth, even if it cannot cure the disease. Chemotherapy has been shown to ease symptoms and prolong life in cases of advanced NSCLC.
+
+Radiation therapy can relieve symptoms, too. It is often used to treat NSCLC that has spread to the brain or bones and is causing pain. It can also be used alone or with chemotherapy to treat cancer that is confined to the chest. Unfortunately, chemotherapy and radiation therapy do not work as well against large cell lung cancer as they do against other non-small cell lung tumors.
+
+People who may not withstand surgery due to other serious medical problems may receive radiation therapy, with or without chemotherapy, to shrink the tumor. A newer method of delivering radiation therapy, CyberKnife, uses highly focused beams of radiation. It requires fewer treatments than other types of radiation therapy.
+
+In specialized cancer centers, cancerous tissue may be tested for specific genetic abnormalities (mutations). Doctors may then be able to treat the cancer with a "targeted therapy." These therapies can derail the cancer’s growth by preventing or changing chemical reactions linked to particular mutations. For example, some targeted therapies prevent cancer cells from receiving chemical "messages" telling them to grow.
+

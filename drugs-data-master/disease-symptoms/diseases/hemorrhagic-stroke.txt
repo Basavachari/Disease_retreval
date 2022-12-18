@@ -1,0 +1,108 @@
+
+Hemorrhagic Stroke
+
+Medically reviewed by Drugs.com. Last updated on Jul 11, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Hemorrhagic Stroke?
+
+
+A hemorrhagic stroke is bleeding (hemorrhage) that suddenly interferes with the brain's function. This bleeding can occur either within the brain or between the brain and the skull. Hemorrhagic strokes account for about 20% of all strokes, and are divided into categories depending on the site and cause of the bleeding:
+
+Intracerebral hemorrhage — Bleeding occurs from a broken blood vessel within the brain. Some things that increase your risk for this kind of hemorrhage are high blood pressure (hypertension), heavy alcohol use, advanced age and the use of cocaine or amphetamines.
+ Other kinds of stroke can convert to an intracerebral hemorrhage. For example, a stroke that begins without hemorrhage (a thrombotic or embolic stroke) can lead to intracerebral hemorrhage shortly afterward. This is especially common for embolic strokes that are related to a heart valve infection (endocarditis). In this case, a clump of bacteria and inflammatory cells from the valve infection can become a floating mass within the bloodstream (called an embolus). The infected clump can travel into a brain artery and become wedged there. Then, the infection can spread through the artery.
+ In rare cases, intracerebral hemorrhage may happen because of a leaking arteriovenous malformation (AVM), which is an abnormal and weak-walled blood vessel that connects an artery and a vein. This weak blood vessel is present from birth—it is larger than a capillary and blood that flows in can be at high pressure, causing the AVM to eventually stretch or leak.
+Subarachnoid hemorrhage — Bleeding from a damaged blood vessel causes blood to accumulate at the surface of the brain. Blood fills a portion of the space between the brain and the skull, and it mixes with the cerebrospinal fluid that cushions the brain and spinal cord. As blood flows into the cerebral spinal fluid, it increases pressure on the brain, which causes an immediate headache. In the days immediately following the bleeding, chemical irritation from clotted blood around the brain can cause brain arteries that are near to this area to go into spasm. Artery spasms can damage brain tissue. Most often, a subarachnoid hemorrhage happens because of a leaking saccular aneurysm (a sack-like bulge in the wall of an artery), but it also can occur because of leakage from an arteriovenous malformation.
+
+
+Symptoms
+
+Symptoms of a hemorrhagic stroke vary, depending on the cause:
+
+Intracerebral hemorrhage — Symptoms almost always occur when the person is awake. Symptoms tend to appear without warning, but they can develop gradually. Symptoms worsen over a period of 30 to 90 minutes. Symptoms can include:
+
+ Sudden weaknessParalysis or numbness in any part of the bodyInability to speakInability to control eye movements correctlyVomitingDifficulty walkingIrregular breathingStuporComa
+Subarachnoid hemorrhage — When caused by a ruptured aneurysm, symptoms can include:
+ A very severe headache that starts suddenly (Some people describe it like a "thunderclap.")Loss of consciousnessNausea and vomitingInability to look at bright lightStiff neckDizzinessConfusionSeizureLoss of consciousness
+
+Diagnosis
+
+Your doctor will want to know your medical history and your risk factors for stroke. Your doctor will take your blood pressure and examine you, including a neurological exam and a heart exam.
+
+To diagnose and classify your stroke, your doctor will need an imaging test of your brain. Several tests can be useful, including a computed tomography (CT) scan or magnetic resonance imaging (MRI) scan. For hemorrhagic strokes, CT scans are the fastest and most effective test. If a subarachnoid hemorrhage is suspected, your doctor may do a lumbar puncture, also called a spinal tap, in which a small sample of cerebrospinal fluid is removed through a needle inserted into your back. This fluid is examined to see if it contains blood. Another test, called an MRI angiography, can provide information about blood flow to your brain.
+
+
+If these tests show that you are having a stroke, you will undergo tests to check for the cause. Because a hemorrhagic stroke involves bleeding, it is important to assess the ability of your blood to clot. If you take a blood-thinning medication called warfarin (Coumadin), which can contribute to a stroke, your blood will be tested to measure the drug effect. If the infection endocarditis is suspected, blood samples will be drawn and checked in a laboratory for bacteria. You may have an electrocardiogram (EKG) and chest X-ray. Blood tests will be done to evaluate your cell counts and the ability of your blood to clot. Some people will have ultrasound testing of the arteries in the neck (carotid Doppler) or of the heart (echocardiogram).
+
+Expected Duration
+
+Hemorrhagic stroke is life threatening. Many of these deaths occur within the first two days. For those who survive a brain hemorrhage, recovery is slow. A minority of people are able to recover complete or near-complete functioning within 30 days of the stroke.
+
+Prevention
+
+You can help to prevent stroke from intracerebral hemorrhage by controlling your blood pressure. If you take warfarin, educate yourself about the effect other drugs and foods can have on the level of the drug in your bloodstream. Too much warfarin in your blood can cause bleeding. You also should be treated for high cholesterol, avoid excessive alcohol use and never use cocaine or amphetamines. Smoking increases the risk of an aneurysm, so avoiding smoking may prevent some cases of hemorrhagic stroke.
+
+It is almost impossible to prevent subarachnoid hemorrhage caused by an aneurysm or arteriovenous malformation, because these blood vessel abnormalities usually do not cause any symptoms before the hemorrhage occurs.
+
+Some doctors have proposed screening tests, such as MRI angiography, to identify aneurysms before they cause a problem. However, this idea has been impractical for most people, because surgery to remove an aneurysm that is not causing any symptoms involves significant risks, and because most aneurysms never cause serious bleeding. This screening may make sense for some people who have two or more close relatives who have had intracerebral hemorrhages. Because aneurysm screening is controversial, you should consider the risks of surgery carefully with your doctor before you request a screening test.
+
+Treatment
+
+When a large hemorrhage occurs in or around the brain, the entire brain is in danger because of increasing pressure within the skull. Much of the emergency treatment for hemorrhagic stroke involves measuring and lowering pressure. The sugar mannitol, which sometimes is used as a medicine, pulls brain fluid into the bloodstream, can be used to help lower intracranial pressure. The patient may be intubated and connected to a mechanical ventilator to hyperventilate the person as a way to also lower pressure in and around the brain.
+
+
+If necessary, a surgeon will cut the skull bone (with a small drilled hole called a "burr hole," or with a larger surgery) to decrease the compression of the brain tissue. In some cases, surgery is necessary to remove a large portion of the clot after a hemorrhage, but in most patients, the body eventually reabsorbs the clotted blood on its own.
+
+In the hours after a hemorrhagic stroke, blood pressure must be closely monitored. Doctors consider the amount of brain swelling present when they decide what blood pressure level is most appropriate.
+
+In the case of subarachnoid hemorrhage, which commonly provokes spasms of the arteries nearest to the site of bleeding, medicines may be used to prevent arteries from narrowing when they spasm.
+
+If bleeding occurred because of an abnormally formed blood vessel, surgery may be appropriate to prevent a hemorrhage from happening again. An aneurysm can be repaired by placing a surgical clip. Depending upon the size and location of an arteriovenous malformation (AVM), a neurosurgeon may be able to repair or remove it.
+
+Early intervention by an occupational therapist and physical therapist is helpful. These professionals can teach people how to work around a new disability and regain strength after brain injury. Commonly, hospitalization is followed by a period of living in a rehabilitation center, where additional intensive therapy may be provided. The goal of rehabilitation is to help the patient recover as much physical and speaking function as possible.
+
+When To Call a Professional
+
+Call for emergency help immediately if you think a friend or family member may be having a stroke. Call your doctor promptly if you develop a severe headache with vomiting. Headaches should also be evaluated by your doctor if they occur frequently or are accompanied by other symptoms, such as nausea, vomiting, weakness or numbness in any part of the body. If you take warfarin, report a new headache to your doctor.
+
+If you have a sudden, very severe headache that goes away, it is still important to discuss this with your doctor. Sometimes blood leaks briefly from a blood vessel one or more times before a subarachnoid hemorrhage occurs. The headache this leak causes is called a sentinel headache.
+
+Prognosis
+
+About 30% to 60% of people with an intracerebral hemorrhage die. In those who survive long enough to reach an emergency room, bleeding usually has stopped by the time they are seen by a doctor. Many people with ruptured aneurysms or subarachnoid hemorrhages also do not survive long enough to reach a hospital. Of those who do, about 50% die within the first month of treatment. However, in people with subarachnoid hemorrhages resulting from arteriovenous malformations, the risk of death is only about 15%.
+
+Among the 25% of people who survive an intracerebral hemorrhage, many experience a major improvement in their symptoms as their bodies naturally and gradually reabsorb the clotted blood within the brain. Among those who survive a bleeding aneurysm, about 50% suffer long-term neurological problems. People who bleed from an aneurysm or AVM and do not have this problem treated are at risk for having a repeat bleeding event. If the blood vessel is not repaired or removed, one out of 5 survivors of subarachnoid hemorrhage have bleeding again within 14 days if the abnormal blood vessel was not repaired or removed. 50% who do not have surgical treatment have a repeat bleed within 6 months. When surgery is used to clip a bleeding aneurysm, there is a good chance of success.
+
+Learn more about Hemorrhagic Stroke
+Treatment options
+
+Medications for Hemorrhagic Stroke
+
+Care guides
+
+Intracerebral Hemorrhage
+
+External resources
+
+National Institute of Neurological Disorders and Stroke
+
+http://www.ninds.nih.gov/
+
+
+National Stroke Association 
+
+http://www.stroke.org/
+
+
+
+Further information
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+Medical Disclaimer
+

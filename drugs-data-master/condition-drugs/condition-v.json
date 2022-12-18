@@ -1,0 +1,5843 @@
+[
+    {
+        "id":1,
+        "condition": "v-tach (ventricular tachycardia)",
+        "link": "https://www.drugs.com/condition/ventricular-tachycardia.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "atenolol",
+                "rating": 8.0,
+                "reviews": 14,
+                "activity": 99,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "amiodarone",
+                "rating": 6.3,
+                "reviews": 18,
+                "activity": 75,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "propranolol",
+                "rating": 7.3,
+                "reviews": 4,
+                "activity": 54,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "flecainide",
+                "rating": 7.2,
+                "reviews": 14,
+                "activity": 24,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tenormin",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 23,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "mexiletine",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "pacerone",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 14,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "lidocaine",
+                "rating": null,
+                "reviews": null,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "propafenone",
+                "rating": 8.0,
+                "reviews": 6,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tambocor",
+                "rating": 7.0,
+                "reviews": 3,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "inderal la",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "hemangeol",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "inderal xl",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "innopran xl",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "acebutolol",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "nexterone",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vasopressin",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "rythmol sr",
+                "rating": 6.5,
+                "reviews": 2,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "xylocaine-mpf",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "xylocaine hcl",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dentipatch",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vasostrict",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":2,
+        "condition": "vaccination and prophylaxis",
+        "link": "https://www.drugs.com/condition/vaccination.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "proquad",
+                "rating": null,
+                "reviews": null,
+                "activity": 17,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":3,
+        "condition": "vaginal atrophy (atrophic vaginitis)",
+        "link": "https://www.drugs.com/condition/atrophic-vaginitis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "estrace vaginal cream",
+                "rating": 6.5,
+                "reviews": 61,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vagifem",
+                "rating": 5.8,
+                "reviews": 74,
+                "activity": 71,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "premarin vaginal",
+                "rating": 9.0,
+                "reviews": 5,
+                "activity": 48,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estradiol",
+                "rating": 4.8,
+                "reviews": 374,
+                "activity": 40,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estradiol",
+                "rating": 5.9,
+                "reviews": 12,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estring",
+                "rating": 5.7,
+                "reviews": 63,
+                "activity": 22,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estrace",
+                "rating": 9.0,
+                "reviews": 3,
+                "activity": 17,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "yuvafem",
+                "rating": 3.1,
+                "reviews": 94,
+                "activity": 17,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "premarin",
+                "rating": 4.3,
+                "reviews": 9,
+                "activity": 16,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "imvexxy",
+                "rating": 5.4,
+                "reviews": 38,
+                "activity": 12,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "climara",
+                "rating": 5.7,
+                "reviews": 3,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "femring",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estradiol patch",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estrogel",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vivelle-dot",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "alora",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "conjugated estrogens",
+                "rating": 9.0,
+                "reviews": 5,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "delestrogen",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estra pellets",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "depo-estradiol",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dotti",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estraderm",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "conjugated estrogens",
+                "rating": 4.3,
+                "reviews": 9,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "activella",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "osphena",
+                "rating": 3.4,
+                "reviews": 8,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "combipatch",
+                "rating": 9.5,
+                "reviews": 2,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "estradiol / norethindrone",
+                "rating": 9.5,
+                "reviews": 2,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "prempro",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "conjugated estrogens / medroxyprogesterone",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "menest",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "esterified estrogens",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "estropipate",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mimvey",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "ogen",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ospemifene",
+                "rating": 3.4,
+                "reviews": 8,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "premarin intravenous",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "premphase",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":4,
+        "condition": "vaginal candidiasis (vaginal yeast infection)",
+        "link": "https://www.drugs.com/condition/vaginal-candidiasis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "fluconazole",
+                "rating": 6.4,
+                "reviews": 411,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "diflucan",
+                "rating": 5.8,
+                "reviews": 117,
+                "activity": 64,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clotrimazole",
+                "rating": 8.9,
+                "reviews": 18,
+                "activity": 24,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gyne-lotrimin",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 16,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nystatin",
+                "rating": 3.6,
+                "reviews": 11,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "miconazole",
+                "rating": 3.0,
+                "reviews": 4128,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clotrimazole-3",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 10,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "terconazole",
+                "rating": 5.7,
+                "reviews": 143,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ketoconazole",
+                "rating": 5.8,
+                "reviews": 7,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sporanox",
+                "rating": 10,
+                "reviews": 5,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nystop",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nyamyc",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "terazol",
+                "rating": 7.7,
+                "reviews": 3,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gyne-lotrimin 3 day",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "itraconazole",
+                "rating": 9.4,
+                "reviews": 9,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 7",
+                "rating": 3.6,
+                "reviews": 727,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gynazole-1",
+                "rating": 9.3,
+                "reviews": 4,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 1 combination pack",
+                "rating": 3.5,
+                "reviews": 384,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "monistat 3",
+                "rating": 3.7,
+                "reviews": 639,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tioconazole",
+                "rating": 4.2,
+                "reviews": 1673,
+                "activity": 3,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "butoconazole",
+                "rating": 9.3,
+                "reviews": 4,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "m-zole 3",
+                "rating": 1.0,
+                "reviews": 3,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "micon 7",
+                "rating": 8.0,
+                "reviews": 3,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vagistat-1",
+                "rating": 6.7,
+                "reviews": 22,
+                "activity": 1,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vagistat-3",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "avc",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "brexafemme",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ibrexafungerp",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "oteseconazole",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sulfanilamide",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tioconazole 1 day",
+                "rating": 5.0,
+                "reviews": 157,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vivjoa",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":5,
+        "condition": "vaginal dryness",
+        "link": "https://www.drugs.com/condition/vaginal-dryness.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "osphena",
+                "rating": 4.0,
+                "reviews": 8,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ospemifene",
+                "rating": 4.0,
+                "reviews": 8,
+                "activity": 21,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "emollients",
+                "rating": 2.8,
+                "reviews": 126,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "k-y jelly",
+                "rating": 6.7,
+                "reviews": 3,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":6,
+        "condition": "vaginal ph imbalance",
+        "link": "https://www.drugs.com/condition/vaginal-ph-imbalance.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "hydroxyquinoline",
+                "rating": 9.0,
+                "reviews": 2,
+                "activity": 35,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":7,
+        "condition": "valley fever (coccidioidomycosis)",
+        "link": "https://www.drugs.com/condition/coccidioidomycosis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "fluconazole",
+                "rating": 5.0,
+                "reviews": 2,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "itraconazole",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 26,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "diflucan",
+                "rating": null,
+                "reviews": null,
+                "activity": 24,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ketoconazole",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sporanox",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "amphotericin b",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "abelcet",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "amphocin",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fungizone",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "amphotericin b lipid complex",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":8,
+        "condition": "valvular heart disease",
+        "link": "https://www.drugs.com/condition/valvular-heart-disease.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":9,
+        "condition": "varicella pneumonitis",
+        "link": "https://www.drugs.com/condition/varicella-pneumonitis.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":10,
+        "condition": "varicella-zoster",
+        "link": "https://www.drugs.com/condition/varicella-zoster.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "acyclovir",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "valacyclovir",
+                "rating": 7.1,
+                "reviews": 8,
+                "activity": 83,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "valtrex",
+                "rating": 9.5,
+                "reviews": 4,
+                "activity": 68,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "zovirax",
+                "rating": null,
+                "reviews": null,
+                "activity": 14,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "foscavir",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "varicella zoster immune globulin",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "foscarnet",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "immune globulin intramuscular",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "varizig",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gamastan s/d",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":11,
+        "condition": "varicella-zoster, prophylaxis",
+        "link": "https://www.drugs.com/condition/varicella-zoster-prophylaxis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "varicella virus vaccine",
+                "rating": null,
+                "reviews": null,
+                "activity": 85,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "varivax",
+                "rating": null,
+                "reviews": null,
+                "activity": 80,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "proquad",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "measles virus vaccine / mumps virus vaccine / rubella virus vaccine / varicella virus vaccine",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":12,
+        "condition": "varicose veins",
+        "link": "https://www.drugs.com/condition/varicose-vein.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "polidocanol",
+                "rating": 3.5,
+                "reviews": 2,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sotradecol",
+                "rating": 4.0,
+                "reviews": 2,
+                "activity": 24,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "asclera",
+                "rating": null,
+                "reviews": null,
+                "activity": 17,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sodium tetradecyl sulfate",
+                "rating": 4.0,
+                "reviews": 2,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "varithena",
+                "rating": null,
+                "reviews": null,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":13,
+        "condition": "vascular dementia (arteriosclerotic dementia)",
+        "link": "https://www.drugs.com/condition/arteriosclerotic-dementia.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "hydergine",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ergoloid mesylates",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":14,
+        "condition": "vascular dementia with depression (arteriosclerotic dementia with depression)",
+        "link": "https://www.drugs.com/condition/arteriosclerotic-dementia-w-depressive-features.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":15,
+        "condition": "vascular disorders of penis",
+        "link": "https://www.drugs.com/condition/vascular-disorders-of-penis.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":16,
+        "condition": "vascular magnetic resonance imaging",
+        "link": "https://www.drugs.com/condition/vascular-magnetic-resonance-imaging.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "gadavist",
+                "rating": null,
+                "reviews": null,
+                "activity": 97,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "magnevist",
+                "rating": null,
+                "reviews": null,
+                "activity": 36,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gadobutrol",
+                "rating": null,
+                "reviews": null,
+                "activity": 20,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omniscan",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gadopentetate dimeglumine",
+                "rating": null,
+                "reviews": null,
+                "activity": 15,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gadodiamide",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":17,
+        "condition": "vascular spasm (vasospasm)",
+        "link": "https://www.drugs.com/condition/vasospasm.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "papaverine",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":18,
+        "condition": "vascular surgery",
+        "link": "https://www.drugs.com/condition/vascular-surgery.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":19,
+        "condition": "vasculitic syndrome",
+        "link": "https://www.drugs.com/condition/vasculitic-syndrome.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":20,
+        "condition": "vasculitis",
+        "link": "https://www.drugs.com/condition/vasculitis.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":21,
+        "condition": "vasoactive intestinal peptide tumor",
+        "link": "https://www.drugs.com/condition/vasoactive-intestinal-peptide-tumor.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "sandostatin",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "octreotide",
+                "rating": null,
+                "reviews": null,
+                "activity": 83,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sandostatin lar depot",
+                "rating": null,
+                "reviews": null,
+                "activity": 45,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bynfezia pen",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":22,
+        "condition": "vasomotor rhinitis",
+        "link": "https://www.drugs.com/condition/vasomotor-rhinitis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "carbinoxamine",
+                "rating": null,
+                "reviews": null,
+                "activity": 40,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "arbinoxa",
+                "rating": null,
+                "reviews": null,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "ryvent",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "carboxine",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "histex pd",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "histex ct",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "histex ie",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "karbinal er",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    },
+    {
+        "id":23,
+        "condition": "vasovagal syncope (syncope)",
+        "link": "https://www.drugs.com/condition/syncope.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":24,
+        "condition": "venereal disease (sexually transmitted diseases)",
+        "link": "https://www.drugs.com/condition/sexually-transmitted-disease.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":25,
+        "condition": "venereal warts (condylomata acuminata)",
+        "link": "https://www.drugs.com/condition/condylomata-acuminata.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "imiquimod",
+                "rating": 7.1,
+                "reviews": 15,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "podofilox",
+                "rating": 7.2,
+                "reviews": 56,
+                "activity": 72,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aldara",
+                "rating": 8.0,
+                "reviews": 6,
+                "activity": 64,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "condylox",
+                "rating": 6.6,
+                "reviews": 9,
+                "activity": 61,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "veregen",
+                "rating": 8.0,
+                "reviews": 1,
+                "activity": 26,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "zyclara",
+                "rating": 6.0,
+                "reviews": 2,
+                "activity": 24,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sinecatechins",
+                "rating": 8.0,
+                "reviews": 1,
+                "activity": 21,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "intron a",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "interferon alfa-2b",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "alferon n",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "interferon alfa-n3",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":26,
+        "condition": "venography",
+        "link": "https://www.drugs.com/condition/venography.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "visipaque",
+                "rating": null,
+                "reviews": null,
+                "activity": 40,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iodixanol",
+                "rating": null,
+                "reviews": null,
+                "activity": 23,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ultravist",
+                "rating": null,
+                "reviews": null,
+                "activity": 23,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iopromide",
+                "rating": null,
+                "reviews": null,
+                "activity": 12,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ioversol",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 240",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 300",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 320",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 350",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":27,
+        "condition": "venomous scorpion bite",
+        "link": "https://www.drugs.com/condition/venomous-scorpion-bite.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "anascorp",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antivenom (centruroides scorpion)",
+                "rating": null,
+                "reviews": null,
+                "activity": 28,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":28,
+        "condition": "venomous snake bite",
+        "link": "https://www.drugs.com/condition/venomous-snake-bite.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "crofab",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antivenin (crotalidae) polyvalent",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 56,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "anavip",
+                "rating": null,
+                "reviews": null,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antivenin polyvalent",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antivenin (micrurus fulvius)",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":29,
+        "condition": "venomous spider bite",
+        "link": "https://www.drugs.com/condition/venomous-spider-bite.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "antivenin (latrodectus mactans)",
+                "rating": null,
+                "reviews": null,
+                "activity": 83,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antivenin (black widow spider)",
+                "rating": null,
+                "reviews": null,
+                "activity": 40,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":30,
+        "condition": "venous statis ulcers (dermal ulcer)",
+        "link": "https://www.drugs.com/condition/dermal-ulcer.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "collagenase",
+                "rating": 0.0,
+                "reviews": 1,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iodosorb",
+                "rating": 5.0,
+                "reviews": 3,
+                "activity": 52,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cadexomer iodine",
+                "rating": 5.0,
+                "reviews": 3,
+                "activity": 41,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "becaplermin",
+                "rating": null,
+                "reviews": null,
+                "activity": 23,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":31,
+        "condition": "venous thromboembolism",
+        "link": "https://www.drugs.com/condition/venous-thromboembolism.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "eliquis",
+                "rating": 1.0,
+                "reviews": 3,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fragmin",
+                "rating": null,
+                "reviews": null,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "apixaban",
+                "rating": 4.5,
+                "reviews": 4,
+                "activity": 29,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dalteparin",
+                "rating": null,
+                "reviews": null,
+                "activity": 22,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dextran 40",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "pradaxa",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dabigatran",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":32,
+        "condition": "ventricular arrhythmia",
+        "link": "https://www.drugs.com/condition/ventricular-arrhythmia.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "sotalol",
+                "rating": 6.2,
+                "reviews": 7,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "betapace",
+                "rating": 7.5,
+                "reviews": 2,
+                "activity": 43,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "magnesium sulfate",
+                "rating": null,
+                "reviews": null,
+                "activity": 41,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "epsom salt",
+                "rating": null,
+                "reviews": null,
+                "activity": 17,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "acebutolol",
+                "rating": null,
+                "reviews": null,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sorine",
+                "rating": null,
+                "reviews": null,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sotylize",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    },
+    {
+        "id":33,
+        "condition": "ventricular fibrillation",
+        "link": "https://www.drugs.com/condition/ventricular-fibrillation.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "amiodarone",
+                "rating": 4.4,
+                "reviews": 14,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "pacerone",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "lidocaine",
+                "rating": null,
+                "reviews": null,
+                "activity": 16,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vasopressin",
+                "rating": null,
+                "reviews": null,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nexterone",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "xylocaine-mpf",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "xylocaine hcl",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dentipatch",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vasostrict",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":34,
+        "condition": "verruca (warts)",
+        "link": "https://www.drugs.com/condition/warts.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "salicylic acid",
+                "rating": 6.4,
+                "reviews": 8,
+                "activity": 95,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fluorouracil",
+                "rating": 3.0,
+                "reviews": 2,
+                "activity": 42,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "compound w",
+                "rating": 7.5,
+                "reviews": 4,
+                "activity": 22,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "duofilm",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 16,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "wart remover",
+                "rating": 3.5,
+                "reviews": 2,
+                "activity": 11,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ultrasal-er",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "silver nitrate",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cantharidin",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "OTC",
+                "pregnancy-category": null,
+                "csa-category": "U",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mediplast",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "xalix",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cantharidin / podophyllum resin / salicylic acid",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "",
+                "pregnancy-category": null,
+                "csa-category": "U",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "durasal",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "virasal",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "acnex",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clear away wart removal system",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "duoplant",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gordofilm",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "grafco silver nitrate",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sal-plant gel",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "salactic film",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tinamed plantar",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":35,
+        "condition": "vertigo",
+        "link": "https://www.drugs.com/condition/vertigo.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "meclizine",
+                "rating": 6.8,
+                "reviews": 148,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "antivert",
+                "rating": 7.2,
+                "reviews": 11,
+                "activity": 25,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "bonine",
+                "rating": 8.2,
+                "reviews": 11,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "dramamine ii",
+                "rating": 9.1,
+                "reviews": 7,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "promethazine",
+                "rating": 6.7,
+                "reviews": 8,
+                "activity": 12,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "phenergan",
+                "rating": 6.8,
+                "reviews": 5,
+                "activity": 11,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "dramamine less drowsy",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "phenadoz",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "promethegan",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "travel-ease",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "antinaus 50",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    },
+    {
+        "id":36,
+        "condition": "vesicoureteral reflux nephropathy",
+        "link": "https://www.drugs.com/condition/vesicoureteral-reflux-nephropathy.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":37,
+        "condition": "vhl (von hippel-lindau syndrome)",
+        "link": "https://www.drugs.com/condition/von-hippel-lindau-syndrome.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "belzutifan",
+                "rating": null,
+                "reviews": null,
+                "activity": 40,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "welireg",
+                "rating": null,
+                "reviews": null,
+                "activity": 21,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":38,
+        "condition": "viral infection",
+        "link": "https://www.drugs.com/condition/viral-infection.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":39,
+        "condition": "visceral arteriography",
+        "link": "https://www.drugs.com/condition/visceral-arteriography.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "ioversol",
+                "rating": null,
+                "reviews": null,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 350",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iohexol",
+                "rating": null,
+                "reviews": null,
+                "activity": 14,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 300",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 320",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque 140",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque 180",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque 240",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque 300",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque 350",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "omnipaque flexipak",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "optiray 240",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":40,
+        "condition": "visceral larva migrans, toxicariasis",
+        "link": "https://www.drugs.com/condition/visceral-larva-migrans-toxicariasis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "albendazole",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mebendazole",
+                "rating": null,
+                "reviews": null,
+                "activity": 75,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "albenza",
+                "rating": null,
+                "reviews": null,
+                "activity": 37,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":41,
+        "condition": "visual defect/disturbance",
+        "link": "https://www.drugs.com/condition/visual-defect-disturbance.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":42,
+        "condition": "vitamin a deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-a-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin a",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aquasol a",
+                "rating": null,
+                "reviews": null,
+                "activity": 28,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "lumitene",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "beta-carotene",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "a-caro-25",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":43,
+        "condition": "vitamin b1 deficiency",
+        "link": "https://www.drugs.com/condition/thiamine-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "thiamine",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitamin b1",
+                "rating": null,
+                "reviews": null,
+                "activity": 87,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":44,
+        "condition": "vitamin b12 deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-b12-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin b12",
+                "rating": 6.7,
+                "reviews": 8,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cyanocobalamin",
+                "rating": 6.8,
+                "reviews": 11,
+                "activity": 39,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nascobal",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dodex",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "hydroxocobalamin",
+                "rating": 1.0,
+                "reviews": 2,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cyanokit",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":45,
+        "condition": "vitamin b3 deficiency (niacin deficiency)",
+        "link": "https://www.drugs.com/condition/niacin-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "niacin",
+                "rating": 4.3,
+                "reviews": 3,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "niacinamide",
+                "rating": 2.0,
+                "reviews": 1,
+                "activity": 31,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "slo-niacin",
+                "rating": null,
+                "reviews": null,
+                "activity": 14,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "niacor",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    },
+    {
+        "id":46,
+        "condition": "vitamin c deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-c-deficiency.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":47,
+        "condition": "vitamin d deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-d-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin d3",
+                "rating": 4.4,
+                "reviews": 15,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cholecalciferol",
+                "rating": 4.3,
+                "reviews": 34,
+                "activity": 34,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ergocalciferol",
+                "rating": 6.5,
+                "reviews": 29,
+                "activity": 14,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "d3",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "drisdol",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "calciferol",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "replesta",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "carlson d",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "d3-50",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "decara",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bio-d-mulsion",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bio-d-mulsion forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bprotected pedia d-vite",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "d3-5",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ddrops",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "delta d3",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "enfamil d-vi-sol",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "replesta nx",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "thera-d rapid repletion",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "upspringbaby d",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "calcidol",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":48,
+        "condition": "vitamin d insufficiency",
+        "link": "https://www.drugs.com/condition/vitamin-d-insufficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin d3",
+                "rating": 1.0,
+                "reviews": 2,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cholecalciferol",
+                "rating": 1.0,
+                "reviews": 4,
+                "activity": 23,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "replesta",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "carlson d",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "d3-50",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ddrops",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "delta d3",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "enfamil d-vi-sol",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "d3-5",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "thera-d rapid repletion",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":49,
+        "condition": "vitamin e deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-e-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin e",
+                "rating": null,
+                "reviews": null,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "e-400 clear",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aquasol e",
+                "rating": null,
+                "reviews": null,
+                "activity": 13,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "e-600",
+                "rating": null,
+                "reviews": null,
+                "activity": 13,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "alpha e",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "e-gems",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "e-max-1000",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "e pherol",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aqua gem-e",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":50,
+        "condition": "vitamin k deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-k-deficiency.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "vitamin k1",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 100,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "phytonadione",
+                "rating": 5.5,
+                "reviews": 2,
+                "activity": 98,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mephyton",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 72,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aquamephyton",
+                "rating": null,
+                "reviews": null,
+                "activity": 18,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":51,
+        "condition": "vitamin/mineral supplementation and deficiency",
+        "link": "https://www.drugs.com/condition/vitamin-mineral-supplementation.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "multivitamin with minerals",
+                "rating": 3.1,
+                "reviews": 116,
+                "activity": 95,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "folic acid",
+                "rating": 6.7,
+                "reviews": 4,
+                "activity": 75,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "A",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous sulfate",
+                "rating": 5.5,
+                "reviews": 2,
+                "activity": 27,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multivitamin with iron",
+                "rating": 7.0,
+                "reviews": 7,
+                "activity": 18,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "zinc",
+                "rating": null,
+                "reviews": null,
+                "activity": 16,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "chromium picolinate",
+                "rating": 8.5,
+                "reviews": 7,
+                "activity": 13,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "selenium",
+                "rating": 5.0,
+                "reviews": 4,
+                "activity": 13,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitamin b1",
+                "rating": null,
+                "reviews": null,
+                "activity": 12,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "thiamine",
+                "rating": null,
+                "reviews": null,
+                "activity": 10,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "zinc sulfate",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 10,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "calciferol",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ergocalciferol",
+                "rating": null,
+                "reviews": null,
+                "activity": 9,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "feosol original",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "slow fe",
+                "rating": null,
+                "reviews": null,
+                "activity": 8,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fe caps",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "slow release iron",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "drisdol",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fa-8",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "A",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fer-in-sol",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "feratab",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrousal",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "folacin-800",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "A",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitamin b2",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "calcidol",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous gluconate",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "flintstones complete",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "hemax",
+                "rating": 8.0,
+                "reviews": 1,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous fumarate",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "riboflavin",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "advanced am/pm",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "b2-400",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bacmin",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "biferarx",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "calcifolic-d",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "centratex",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "chromagen",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cr-gtf",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dialyvite",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferate",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fergon",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferralet 90",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "hemocyte",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "integra",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "integra plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iron-150",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multivitamin with fluoride",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nicomide",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "strovite forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitafol",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "zinc-220",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "active fe",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "crm",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dialyvite supreme d",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dolomite",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "enlyte",
+                "rating": 5.5,
+                "reviews": 5,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferocon",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferretts ips",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrex 28",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrex 150 forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrex 150 forte plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "floriva",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "folitab 500",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fusion plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "glutofac-mx",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "hematogen forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "heme iron polypeptide",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iferex 150 forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "integra f",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "iron protein succinylate",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "irospan 24/6",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "maxaron forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multigen",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multigen folic",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multigen plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mvc-fluoride",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "mykidz iron",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nephron-fa",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nufera",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "orazinc",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "poly-vi-flor",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "poly vitamin with fluoride",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "proferrin-es",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prosteon",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "quflora",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "recal d",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "sodium iodide",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "X",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "strovite one",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "taron forte",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tri-vi-flor",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tri-vitamin with fluoride",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tri-vite drops with fluroide",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tri-vit with fluoride",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tricon",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ventrixyl fe",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitramyn",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":52,
+        "condition": "vitamin/mineral supplementation during pregnancy/lactation",
+        "link": "https://www.drugs.com/condition/vitamin-mineral-supplementation-during-pregnancy-lactation.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "prenatal multivitamins",
+                "rating": null,
+                "reviews": null,
+                "activity": 95,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "multivitamin, prenatal",
+                "rating": 7.2,
+                "reviews": 98,
+                "activity": 27,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous sulfate",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 18,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "concept dha",
+                "rating": 6.5,
+                "reviews": 2,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "feosol original",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal 90 dha",
+                "rating": 4.9,
+                "reviews": 14,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fer-in-sol",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "feratab",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "slow fe",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal assure",
+                "rating": 6.0,
+                "reviews": 4,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fe caps",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrousal",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "slow release iron",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 4,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenatal plus iron",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitafol ultra",
+                "rating": 7.8,
+                "reviews": 16,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous fumarate",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferrous gluconate",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenatal 19",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal harmony",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ferate",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fergon",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "hemocyte",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenatabs rx",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate elite",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "se-natal 19",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "select-ob+dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitafol-ob+dha",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "bump dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "c-nate dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal b-calm",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal essence",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "citranatal medley",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "concept ob",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "duet",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "duetdha balanced",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "enbrace hr",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "gesticare dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "heme iron polypeptide",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "m-natal plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "natachew",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "nestabs one",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ob complete petite",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate am",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate essential",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate pixie",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prenate restore",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "primacare",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "proferrin-es",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tricare prenatal",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tricare prenatal compleat",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tristart dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "virt-c dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "virt-pn dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitafol-ob",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vitafol fe plus",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vol-tab rx",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vp-pnv-dha",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":53,
+        "condition": "vitiligo",
+        "link": "https://www.drugs.com/condition/vitiligo.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "opzelura",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ruxolitinib",
+                "rating": null,
+                "reviews": null,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":54,
+        "condition": "vitrectomy",
+        "link": "https://www.drugs.com/condition/vitrectomy.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "triesence",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "triamcinolone",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 91,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":55,
+        "condition": "vitreomacular adhesion",
+        "link": "https://www.drugs.com/condition/vitreomacular-adhesion.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "jetrea",
+                "rating": null,
+                "reviews": null,
+                "activity": 80,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "ocriplasmin",
+                "rating": null,
+                "reviews": null,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":56,
+        "condition": "vocal cord dysfunction",
+        "link": "https://www.drugs.com/condition/vocal-cord-dysfunction.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":57,
+        "condition": "voiding disorders",
+        "link": "https://www.drugs.com/condition/voiding-disorders.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":58,
+        "condition": "voluntary starvation (anorexia nervosa)",
+        "link": "https://www.drugs.com/condition/anorexia-nervosa.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "olanzapine",
+                "rating": 1.0,
+                "reviews": 2,
+                "activity": 100,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "cyproheptadine",
+                "rating": 5.5,
+                "reviews": 2,
+                "activity": 69,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    },
+    {
+        "id":59,
+        "condition": "vomiting",
+        "link": "https://www.drugs.com/condition/vomiting.html?page_all=1",
+        "drugs": [
+        ]
+    },
+    {
+        "id":60,
+        "condition": "von recklinghausen neurofibromatosis (neurofibromatosis)",
+        "link": "https://www.drugs.com/condition/neurofibromatosis.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "bevacizumab",
+                "rating": null,
+                "reviews": null,
+                "activity": 70,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "selumetinib",
+                "rating": null,
+                "reviews": null,
+                "activity": 69,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "koselugo",
+                "rating": null,
+                "reviews": null,
+                "activity": 66,
+                "rx-otc": "Rx",
+                "pregnancy-category": null,
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":61,
+        "condition": "von willebrand disease",
+        "link": "https://www.drugs.com/condition/von-willebrand-s-disease.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "ddavp",
+                "rating": null,
+                "reviews": null,
+                "activity": 94,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "desmopressin",
+                "rating": 10,
+                "reviews": 4,
+                "activity": 91,
+                "rx-otc": "Rx",
+                "pregnancy-category": "B",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "humate-p",
+                "rating": 10,
+                "reviews": 3,
+                "activity": 71,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "alphanate",
+                "rating": null,
+                "reviews": null,
+                "activity": 33,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "antihemophilic factor/von willebrand factor",
+                "rating": 10,
+                "reviews": 4,
+                "activity": 28,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "wilate",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 20,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "vonvendi",
+                "rating": null,
+                "reviews": null,
+                "activity": 16,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "von willebrand factor",
+                "rating": null,
+                "reviews": null,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":62,
+        "condition": "vulvar lichen sclerosus (lichen sclerosus)",
+        "link": "https://www.drugs.com/condition/lichen-sclerosus.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "clobetasol",
+                "rating": 7.1,
+                "reviews": 16,
+                "activity": 95,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fluocinolone",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 21,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "betamethasone",
+                "rating": 9.0,
+                "reviews": 1,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "triamcinolone",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 13,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "prednisone",
+                "rating": 9.0,
+                "reviews": 3,
+                "activity": 10,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clobex",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "synalar",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "fluticasone",
+                "rating": 9.5,
+                "reviews": 2,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "temovate",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 5,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "dermovate",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "betnovate",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "derma-smoothe / fs",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "aristospan",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "capex",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clinacort",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "diprolene",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "kenalog-10",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "kenalog-40",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tretinoin",
+                "rating": null,
+                "reviews": null,
+                "activity": 2,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "avita",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "beta-val",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clobevate",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cormax",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "diprolene af",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "embeline",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "luxiq",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "retin-a",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "synalar ointment",
+                "rating": null,
+                "reviews": null,
+                "activity": 1,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "clodan",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "cormax scalp",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "derma-smoothe / fs (scalp)",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx/OTC",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "embeline e",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "olux",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "olux-e",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            },
+            {
+                "drug-name": "tovet",
+                "rating": null,
+                "reviews": null,
+                "activity": 0,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": null
+            }
+        ]
+    },
+    {
+        "id":63,
+        "condition": "vulvodynia",
+        "link": "https://www.drugs.com/condition/vulvodynia.html?page_all=1",
+        "drugs": [
+            {
+                "drug-name": "gabapentin",
+                "rating": 6.6,
+                "reviews": 10,
+                "activity": 90,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "amitriptyline",
+                "rating": 7.3,
+                "reviews": 24,
+                "activity": 82,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "topiramate",
+                "rating": 6.0,
+                "reviews": 2,
+                "activity": 47,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "tramadol",
+                "rating": 9.0,
+                "reviews": 5,
+                "activity": 35,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "4",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "topamax",
+                "rating": 6.0,
+                "reviews": 2,
+                "activity": 32,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "nortriptyline",
+                "rating": 7.1,
+                "reviews": 10,
+                "activity": 26,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "sertraline",
+                "rating": 10,
+                "reviews": 2,
+                "activity": 21,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "effexor xr",
+                "rating": 7.0,
+                "reviews": 1,
+                "activity": 17,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "pamelor",
+                "rating": 10,
+                "reviews": 1,
+                "activity": 14,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "citalopram",
+                "rating": 2.0,
+                "reviews": 1,
+                "activity": 12,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "fluoxetine",
+                "rating": null,
+                "reviews": null,
+                "activity": 12,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "venlafaxine",
+                "rating": 4.5,
+                "reviews": 3,
+                "activity": 8,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "desipramine",
+                "rating": 8.5,
+                "reviews": 2,
+                "activity": 7,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "carbamazepine",
+                "rating": 1.0,
+                "reviews": 1,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "escitalopram",
+                "rating": null,
+                "reviews": null,
+                "activity": 6,
+                "rx-otc": "Rx",
+                "pregnancy-category": "C",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "aventyl hydrochloride",
+                "rating": 5.0,
+                "reviews": 1,
+                "activity": 4,
+                "rx-otc": "Rx",
+                "pregnancy-category": "N",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            },
+            {
+                "drug-name": "paroxetine",
+                "rating": null,
+                "reviews": null,
+                "activity": 3,
+                "rx-otc": "Rx",
+                "pregnancy-category": "D",
+                "csa-category": "N",
+                "alcohol-category": "X"
+            }
+        ]
+    }
+]

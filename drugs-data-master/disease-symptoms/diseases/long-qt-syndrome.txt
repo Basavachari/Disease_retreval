@@ -1,0 +1,74 @@
+
+Long QT Syndrome
+
+Medically reviewed by Drugs.com. Last updated on Jan 26, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Long QT Syndrome?
+
+
+Long QT syndrome is an uncommon inherited condition - meaning it's caused by genes passed on to you from your parents. The electrical activity of heart cells is controlled by a set of channels that pump minerals, such as sodium and potassium, in and out of cells. If you inherit genes that cause alterations in these channels, it can affect the action of heart cells.
+
+Normally, an electrical impulse starts in the sinus node, located in the upper chamber of the heart. The electrical impulse then travels down to the lower chambers of the heart, called the ventricles, causing contraction of the ventricles' muscle cells. This contraction causes the blood to flow out of your heart, like how squeezing a balloon filled with water, but not tied at the top, causes the water to squirt out the top.
+
+The heart muscle cells then relax. During this relaxation phase, the electrical charges of the cells need to recover.
+
+There are normal amounts of times for each of these phases of the heartbeat, called intervals. A test called an electrocardiogram (EKG) can show how long it takes for the impulse to pass through certain sections of the heart, and how long it takes for the heart muscle cells in the ventricles to recover. The recovery time is known as the QT interval.
+
+The QT interval lasts just a fraction of a second; it normally lasts about one-third of an entire heartbeat. In people with long QT syndrome, the interval lasts longer than it should because heart muscle cells are having trouble getting ready for the next contraction.
+
+
+A prolonged QT interval does not cause symptoms. However, the delay in recharging upsets the electrical timing of the heart. This makes the heart more likely to develop abnormal heart rhythms, called arrhythmias. Sometimes these arrhythmias can be dangerous, even deadly.
+
+People with long QT syndrome may not always show an abnormally long QT interval on an EKG. Many different factors can influence the recovery time of even normal heart cells. Sometimes long QT intervals only occur during exercise, at times of intense emotion, or after being startled.
+
+Inherited long QT syndrome is not nearly as common as a prolonged QT interval caused by a medication or an imbalance of certain minerals in the blood stream. More than 50 medications are known to lengthen the QT interval and upset the heart rhythm.
+
+The two best understood inherited long QT syndromes are the Romano-Ward syndrome and the Jervell and Lange-Nielsen syndrome. Of the two, the Romano-Ward syndrome is more common. It is an autosomal dominant inherited condition - meaning you can have a long QT if you inherit one abnormal gene from either parent. The Jervell and Lange-Nielsen syndrome is rare. People with this syndrome have a very long QT interval and are also deaf. The Jervell and Lange-Nielsen syndrome is an autosomal recessive inherited condition - meaning that you need to inherit two abnormal genes, one from each parent, to get this syndrome.
+
+Symptoms
+
+In most people, a prolonged QT interval does not cause any symptoms. The concern is that it can lead to an abnormal heart rhythm (arrhythmia), which may be life threatening. Arrhythmias can also cause fainting and shortness of breath.
+
+Diagnosis
+
+The diagnosis is usually made after you've had a standard EKG that shows a long QT interval. Your doctor might order this test if you have a family history of long QT syndrome or a family history of sudden death. The prolonged QT may also be identified when a person has an EKG for some other, unrelated reason.
+
+Since long QT syndrome does not always create longer than normal QT intervals all the time, there's a chance your EKG may be normal even though you have prolonged QT intervals at other times. If your doctor suspects this is the case, you may be asked to wear a Holter monitor.
+
+Like an EKG, a Holter monitor records the electrical signals of your heart. The device is small, portable and can fit in your pocket. A technician will apply electrodes to the skin on your chest and attach them to wires connected to the monitor. You wear the monitor for 24 or 48 hours, as you go about your normal activities. You also keep a diary noting when you have symptoms.
+
+Since some people only have long QT intervals when they exercise, you might be asked to walk or run on a treadmill while hooked up to an EKG machine. This is often called a stress test. If you can't exercise, you may get an injection of medicine that makes your heart work hard and beat fast, as if you were exercising.
+
+
+Your doctor will also examine you and ask about any medications you take, including over-the-counter medications, herbs and supplements, and illegal drugs. He or she will look for signs of conditions that can lower blood levels of potassium and magnesium, such as the eating disorders anorexia nervosa and bulimia, excess vomiting or diarrhea, and certain thyroid disorders.
+
+Genetic testing for long QT syndrome may be recommended in certain situations, for example if many people in your family have it. The genetic test is simple to have done-it just involves giving a blood sample.
+
+Expected Duration
+
+Inherited long QT syndrome does not go away. If you have a long QT interval caused by a medication you are taking or by a mineral imbalance, it will most likely go away once you stop taking the medication or treat the imbalance. Note that if one type of medication causes you to have a prolonged QT, other medications that affect the QT interval will likely affect you in the same way. Ask your doctor about this any time you are starting a new medication.
+
+Prevention
+
+There's no way to prevent inherited long QT syndrome. However, people with the inherited syndrome want to avoid taking medications that can make the QT even longer than it is naturally. Eating enough food and a balanced diet can prevent mineral imbalances that may lengthen the QT interval.
+
+Everyone starting a new medication should check with a pharmacist or doctor about potential interactions with current medications. This includes people who don't have any history of long QT intervals. Some drug combinations can significantly prolong the QT interval, which would increase the risk of an arrhythmia.
+
+Treatment
+
+Treatment for people with inherited long QT syndrome generally doesn't shorten the length of the QT interval. But it can greatly reduce the risk of life-threatening abnormal heartbeats and fainting spells. Most people with inherited long QT syndrome take beta blockers, which prevent the heart from beating fast during exercise or stressful events.
+
+If your symptoms occur when you exercise or are under stress, it is best to avoid very strenuous exercise and keep stress at bay. Breathing exercises, meditation, and yoga are all ways to help manage stress. Your doctor may also suggest you eat foods high in potassium, such as bananas, or take potassium supplements.
+
+If you've fainted or developed dangerous heart rhythms because of long QT syndrome, then you are at higher risk for having serious complications from the syndrome. Your doctor may suggest that you have surgery to implant a pacemaker or implanted cardioverter defibrillator in your chest. These devices monitor the heart rhythm and deliver electrical currents to the heart when they detect an abnormal heart rhythm.
+
+
+Another surgical option is to have a procedure where the nerves that prompt the heart to beat faster in response to physical or emotional stress are cut. After the surgery, you are much less likely to develop dangerous heart rhythms in response to stress or exercise.
+

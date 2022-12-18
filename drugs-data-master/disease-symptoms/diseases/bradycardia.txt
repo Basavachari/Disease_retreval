@@ -1,0 +1,75 @@
+
+Bradycardia
+
+Medically reviewed by Drugs.com. Last updated on May 31, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Bradycardia?
+
+
+Bradycardia is an abnormally slow heart rate of less than 60 beats per minute. A normal heartbeat is between 60 and 100 beats per minute.
+
+Here's what happens during a normal heartbeat: The electrical signal that starts a heartbeat comes from the heart's sinus node, the natural pacemaker located in the upper portion of the right atrium. From the sinus node, the heartbeat signal travels to the atrioventricular (A-V) node, located between the atria, and then through the bundle of His (pronounced "hiss") -- a series of modified heart-muscle fibers located between the ventricles -- to the muscles of the ventricles. This triggers a contraction of the ventricles and produces a heartbeat.
+
+Bradycardia, even as low as 50 beats per minute, can be normal in athletes and other people who are physically active. In these people, regular exercise improves the heart's ability to pump blood efficiently, so fewer heart contractions are required to supply the body's needs.
+
+
+
+
+In other cases, bradycardia can be a form of cardiac arrhythmia, a heart-rate abnormality. Cardiac arrhythmia can be caused by a problem in the sinus node, or it can be related to some disturbance in the passage of heartbeat signals through the A-V node and bundle of His. Bradycardia can occur with toxic levels of certain drugs, such as digoxin (Lanoxin) and narcotics. Also, bradycardia sometimes is a side effect of certain medications, including propranolol (Inderal), atenolol (Tenormin), metoprolol (Toprol-XL), sotalol (Betapace), verapamil (Calan, Isoptin, Verelan) and diltiazem (Cardizem, Dilacor-XR). Bradycardia also occurs in some people who have certain medical illnesses not related to the heart, such as:
+
+An abnormally low level of thyroid hormones (hypothyroidism)  
+An abnormally low body temperature (hypothermia)  
+A very high blood potassium level 
+Lyme disease 
+Typhoid fever
+
+Symptoms
+
+Bradycardia can cause dizziness, weakness, lack of energy or fainting spells.
+
+If bradycardia is caused by a medical illness, there will be additional symptoms that are specific to that illness. For example, people whose bradycardia is due to severe hypothyroidism also can have constipation, muscle cramps, weight gain (often despite poor appetite), very dry skin, hair that is thin and dry, an abnormal sensitivity to cold temperatures and other symptoms related to low levels of thyroid hormones.
+
+Diagnosis
+
+Your doctor will ask about your family history of heart disease, cardiac arrhythmias and fainting spells. He or she also will review your current symptoms and your personal medical history, including your use of medications that may cause bradycardia.
+
+During the physical examination, your doctor will check your heart rate and rhythm, and your pulse. You may be asked to do some sit-ups or other exercise so that your doctor can see if your heart rate rises normally when your heart is asked to do more work. Your doctor also will check for physical signs of thyroid abnormalities, including an enlarged thyroid gland, very dry skin, and hair that is thin and dry.
+
+To further evaluate your bradycardia, your doctor will order an electrocardiogram (EKG). However, because some forms of bradycardia come and go, a one-time office EKG may be normal. If this is the case, a test called ambulatory electrocardiography may be done. During this test, the patient wears a portable EKG machine called a Holter monitor, usually for 24 hours. If your symptoms are infrequent, you may wear a monitor for longer. You will be taught to press a button to record your EKG reading when your symptoms occur.
+
+
+Depending on the results of your physical examination, other tests may be necessary to check for medical illnesses that produce bradycardia. For example, if you have symptoms and physical signs of hypothyroidism, your doctor may order blood tests to measure levels of thyroid hormones and TSH, a pituitary gland hormone that stimulates the thyroid. Your doctor also may order blood tests for cholesterol and certain liver enzymes, which often are elevated in people with hypothyroidism.
+
+Expected Duration
+
+How long bradycardia lasts depends on its cause. For example, normal bradycardia in a well-trained athlete will last as long as the athlete maintains his or her usual level of exercise. When bradycardia occurs as a side effect of medication, it usually will go away as soon as the drug that triggered the bradycardia is used by the body or excreted in the urine. Bradycardia caused by hypothyroidism will go away quickly after treatment with thyroid hormones. Certain forms of bradycardia resulting from cardiac arrhythmias can be cured with a permanent pacemaker.
+
+Prevention
+
+There are no general guidelines to prevent all forms of bradycardia. When bradycardia occurs as a side effect of medication, the problem can be prevented by either switching the drug or reducing its dose.
+
+Treatment
+
+In most cases, bradycardia in healthy, well-trained athletes does not need to be treated. In fact, in most people, bradycardia does not require treatment unless patients have symptoms that are clearly due to a slow heartbeat. The following are conditions that produce bradycardia that requires treatment:
+
+Cardiac arrhythmias resulting from sinus node dysfunction. In people with frequent, severe symptoms of sinus-node dysfunction, the main treatment is usually a permanent pacemaker, an implanted device that generates electrical impulses to regulate the heartbeat.
+
+
+
+
+Cardiac arrhythmias resulting from A-V node problems. In people with A-V node problems, the passage of heartbeat signals may be blocked to different degrees. Some patients with less severe degrees of A-V block do not need treatment. Others may simply be monitored with frequent EKGs, especially if they don't have any symptoms and have a heart rate that is adequate for their daily activities. People with the most severe form of A-V block (called third-degree A-V block) can be treated with a special dual-chambered permanent pacemaker, a pacemaker with one electrode in the atrium and one in the ventricle.
+
+
+
+Hypothyroidism. Hypothyroidism is treated with replacement doses of thyroid hormones. Synthetic forms of these hormones are available -- levothyroxine (Synthroid, Levothroid and others), liothyronine (Cytomel, Triostat) or liotrix (Thyrolar) -- as well as thyroid extract.  
+
+
+Lyme disease. Treatment with antibiotics clears the infection and the bradycardia almost always resolves.
+

@@ -1,0 +1,137 @@
+
+Acute Lymphocytic Leukemia (ALL) in Children
+
+Medically reviewed by Drugs.com. Last updated on Feb 7, 2022.
+
+Overview
+Symptoms
+Diagnosis
+Duration
+Prevention
+Treatment
+
+What is Acute Lymphocytic Leukemia (ALL) in Children?
+
+
+Acute lymphocytic leukemia (ALL) is a cancer of the body's blood-making system. (It is also known as acute lymphoblastic leukemia and acute lymphoid leukemia.) The word "acute" refers to the fact that the disease can progress quickly. "Lymphocytic" means that the cancer develops from lymphocytes, a type of white blood cell.
+
+Bone marrow, the soft inner part of bones, makes cells that circulate in the blood. They include white blood cells, red blood cells, and platelets. The two major types of white blood cells are myeloid cells and lymphoid cells. Lymphocytes populate lymph nodes, the spleen, the thymus and the gastrointestinal tract, where they provide immunity to aid in fighting infections.
+
+Normally, the bone marrow makes three types of infection-fighting lymphocytes:
+
+B lymphocytes — These cells make antibodies to help protect the body from germs.
+T lymphocytes — These cells can destroy virus-infected cells, foreign cells, and cancer cells. They also help make antibodies.
+Natural killer cells — These cells can also kill cancer cells and viruses.
+
+In ALL, the bone marrow makes too many immature lymphocytes. These lymphocytes, called blasts, contain abnormal genetic material. They cannot fight infections as well as normal cells. In addition, because these lymphocytes multiply quickly, they crowd out healthy white blood cells, red blood cells, and platelets in the blood and bone marrow. This may lead to infection, anemia, and easy bleeding.
+
+The abnormal and immature lymphocytes that characterize ALL arise from the bone marrow typically are released into the blood stream quickly. It can involve other parts of the body, such as the lymph nodes, liver, spleen, brain and spinal cord (central nervous system), and testicles (testes).
+
+
+Although it is rare in adults, ALL is the most common cancer in children. It can affect children of any age, but most are diagnosed between 2 and 4 years old.
+
+A few factors may increase a child's risk of developing ALL. These include
+
+having a sibling with leukemia
+being white
+being male
+exposure to x-rays before birth
+exposure to radiation
+past treatment with chemotherapy or other drugs that weaken the immune system
+having certain inherited disorders, such as Down syndrome
+having a specific genetic change (mutation).
+
+Having one or more of these risk factors does not mean your child will develop ALL. Many children with the disease have no risk factors.
+
+ALL has several subtypes. Subtypes depend on
+
+whether the cancerous cells formed from B lymphocytes or T lymphocytes
+your child's age
+whether the cells have certain changes in their genetic material.
+
+Symptoms
+
+The symptoms of ALL in children are similar to those in adults. They include
+
+fever
+easy bruising or bleeding
+dark red spots under the skin
+lumps under the arms or in the neck, stomach, or groin
+difficulty breathing
+bone or joint pain
+weakness
+fatigue
+headaches
+loss of appetite and unexplained weight loss.
+
+If your child has these symptoms, it does not mean that he or she has ALL. These symptoms can be caused by other conditions. However, you should contact your child's doctor if they occur.
+
+Diagnosis
+
+The first step in diagnosis is usually a physical examination and medical history. Your child's doctor will check for signs of disease, such as lumps in the neck. He or she will ask about your family's medical history and your child's past illnesses and treatments.
+
+To determine whether your child has ALL, the doctor will also need to test your child's blood and bone marrow, and possibly other cells and tissues. The following tests and procedures may be used:
+
+Blood cell count and other blood tests – Doctors examine a blood sample, checking the number of red blood cells and platelets. The number and type of white blood cells will be checked, too. The appearance of the cells will also be noted.
+Bone marrow aspiration and biopsy – A small sample of bone and liquid bone marrow is taken from the hipbone or breastbone with a long needle. A specially trained doctor checks the sample for abnormal cells.
+Cytogenetic analysis – This test looks for specific changes in the genetic material of lymphocytes.
+Flow cytometry (immunophenotyping) – This test examines the characteristics of a patient's cells. In ALL, it can help determine whether cancerous cells began from B lymphocytes or T lymphocytes.
+
+
+These and other lab tests can also help determine the subtype of ALL.
+
+If your child is diagnosed with ALL, the doctor may suggest other tests and procedures. These will help determine whether the cancer has spread beyond the blood and bone marrow. The results will also help to plan a course of treatment. Additional tests are likely to include:
+
+imaging tests, such as a chest x-ray, computed tomography (CT) scan and ultrasound
+lumbar puncture (spinal tap), which involves collecting fluid from the spinal column with a needle.
+
+There are two main risk groups for childhood ALL. They are based on age and white blood cell counts at diagnosis. The risk groups are standard (low) risk and high risk. The risk level helps determine the best treatment.
+
+Children with ALL should be cared for by a team with expertise in childhood leukemia. Long-term, regular follow-up exams are very important as well. This is because treatment for childhood ALL can have long-term effects on learning, memory, mood, and other aspects of health. It can also increase the chance of developing new cancers, especially brain tumors.
+
+Expected Duration
+
+ALL usually gets worse quickly if not treated.
+
+Prevention
+
+There are no known ways to prevent ALL.
+
+Treatment
+
+Treatment of childhood ALL usually occurs in phases:
+
+First phase — induction therapy. The goal of this phase is to kill as many leukemia cells in the blood and bone marrow as possible.
+Second phase — consolidation therapy. The goal of this phase is to kill any leukemia cells that remain after induction therapy. These cells may not be active, but they could begin to grow later and cause a relapse.
+Third phase — maintenance therapy. The goal of this phase is the same as the second phase. However, the doses of drugs are often lower.
+
+In addition, children with ALL usually receive therapy to prevent or treat leukemia in the brain and spinal cord.
+
+Your child will have bone marrow aspirations and biopsies throughout treatment. These tests show how well the cancer is responding to treatment.
+
+The type of treatment varies depending on the child's age, disease subtype, and risk group (standard/low risk or high risk). Four types of treatment are used for childhood ALL:
+
+Chemotherapy is the most common treatment for ALL. It involves the use of one or more drugs to kill cancer cells or prevent them from dividing and growing. Chemotherapy drugs may be taken by mouth or injected into a vein or muscle. They travel through the bloodstream and body. Chemotherapy that goes directly into the spinal column may be used to treat ALL that has, or may, spread to the brain and spinal cord. (ALL cells can "hide" in and around the spinal canal and spinal cord.)
+Radiation therapy uses high-energy radiation to kill cancer cells or stop them from growing. The radiation can be delivered from a machine outside the body (external radiation therapy). Or, it can come from a radioactive substance put into the body, either in or near a cancer (internal radiation therapy). Because radiation therapy can affect the development of the brain, especially in younger children, the doctor may avoid using it to treat the brain. But it may be used in children with high risk ALL.
+Targeted therapy uses drugs to identify and attack cancer cells without affecting healthy cells. The drugs, called tyrosine kinase inhibitors, block an enzyme that drives the growth of cancers caused by specific genetic mutations.
+Stem cell transplant replaces a person's blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor. Once removed, they are frozen. The patient receives high-dose chemotherapy. The stored stem cells are then infused into the patient's bloodstream. These cells grow into normal blood cells. A stem cell transplant has significant short- and long-term side effects, so it's rarely the treatment of choice in children and teens. However, it may be used if the disease returns after it was initially treated.
+Corticosteroids. Children with ALL often receive high doses of corticosteroids, such as prednisone or dexamethasone. These drugs can cause a variety of side effects including weight gain, a puffy face and high blood sugar levels.
+
+
+A new treatment approach for ALL is the use of so called CAR-T therapy. The patient's own blood cells are removed and then modified to allow them to identify the abnormal leukemia cells and eliminate them. While this therapy is still not yet FDA approved, it is likely to be approved soon.
+
+Some children receiving ALL treatment experience no side effects, but others do. Side effects vary, depending on the treatment. They may include
+
+anemia (a lack of red blood cells)
+infection
+easy bleeding
+nausea
+mouth sores
+diarrhea
+hair loss
+thin bones.
+
+There are many ways to manage side effects. For example, regular hand washing can help lower the risk of infection.
+
+Your child will need regular checkups after he or she has finished treatment. Some of the tests done to diagnose ALL may be repeated to monitor your child's health and see whether the cancer has returned.
+
